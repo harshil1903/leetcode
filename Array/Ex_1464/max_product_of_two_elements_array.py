@@ -13,6 +13,12 @@ class Solution:
 
         return ((m1 - 1) * (m2 - 1))
 
+    def alternate_maxProduct(self, nums) -> int:
+
+        nums.sort()
+
+        return ((nums[-1] - 1) * (nums[-2] - 1))
+
 if __name__ == '__main__':
     s = Solution();
 
