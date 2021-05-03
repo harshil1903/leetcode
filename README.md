@@ -47,3 +47,11 @@ Solved so far:
 | 0771 | [Jewels and Stones](https://github.com/harshil1903/leetcode/tree/main/String/Ex_0771) |    Easy    |      |
 | 1108 | [Defanging an IP Address](https://github.com/harshil1903/leetcode/tree/main/String/Ex_1108) |    Easy    |      |
 | 1689 | [Partitioning Into Minimum Number Of Deci-Binary Numbers](https://github.com/harshil1903/leetcode/tree/main/String/Ex_1689) |   Medium   |      |
+
+
+
+**Shell**
+
+|  #   | Title                                                        | Difficulty | Note |
+| :--: | :----------------------------------------------------------- | :--------: | :--: |
+| 0193 | [Valid Phone Numbers](https://github.com/harshil1903/leetcode/tree/main/Shell/Ex_0193) |   Medium   |      |
