@@ -18,6 +18,7 @@ Solved so far:
 | 1480 | [Running Sum of 1d Array](https://github.com/harshil1903/leetcode/tree/main/Array/Ex_1480) |    Easy    |      |
 | 1512 | [Number of Good Pairs](https://github.com/harshil1903/leetcode/tree/main/Array/Ex_1512) |    Easy    |      |
 | 1672 | [Richest Customer Wealth](https://github.com/harshil1903/leetcode/tree/main/Array/Ex_1672) |    Easy    |      |
+| 1769 | [Minimum Number of Operations to Move All Balls to Each Box](https://github.com/harshil1903/leetcode/tree/main/Array/Ex_1769) |   Medium   |      |
 
 ​	
 
