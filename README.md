@@ -1,10 +1,10 @@
-# leetcode
+# [LeetCode](https://leetcode.com/problemset/all/)
 
-Practicing algorithm questions listed on leetcode
+Practicing algorithm questions listed on LeetCode
 
 Solved so far:
 
-**ARRAY:** 
+**Array** 
 
 |  #   | Title                                                        | Difficulty | Note |
 | :--: | :----------------------------------------------------------- | :--------: | :--: |
@@ -21,7 +21,7 @@ Solved so far:
 
 ​	
 
-**Linked List:**
+**Linked List**
 
 |  #   | Title                                                        | Difficulty | Note |
 | :--: | :----------------------------------------------------------- | :--------: | :--: |
@@ -29,7 +29,7 @@ Solved so far:
 
 
 
-**Math:**
+**Math**
 
 |  #   | Title                                                        | Difficulty | Note |
 | :--: | :----------------------------------------------------------- | :--------: | :--: |
@@ -39,7 +39,7 @@ Solved so far:
 
 
 
-**String:**
+**String**
 
 |  #   | Title                                                        | Difficulty | Note |
 | :--: | :----------------------------------------------------------- | :--------: | :--: |
