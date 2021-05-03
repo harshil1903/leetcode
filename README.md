@@ -8,7 +8,7 @@ Solved so far:
 
 |  #   | Title                                                        | Difficulty | Note |
 | :--: | :----------------------------------------------------------- | :--------: | :--: |
-| 0001 | Two Sum                                                      |    Easy    |      |
+| 0001 | [Two Sum](https://github.com/harshil1903/leetcode/tree/main/Array/Ex_0001) |    Easy    |      |
 | 0004 | Median of Two Sorted Arrays                                  |    Hard    |      |
 | 1431 | Kids With the Greatest Number of Candies                     |    Easy    |      |
 | 1464 | Maximum Product of Two Elements in an Array                  |    Easy    |      |
