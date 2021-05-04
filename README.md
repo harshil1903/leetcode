@@ -2,7 +2,7 @@
 
 Practicing algorithm questions listed on LeetCode
 
-Solved so far : 26	
+Solved so far : 29	
 
 
 
@@ -14,6 +14,7 @@ Solved so far : 26
 | 0004 | [Median of Two Sorted Arrays](https://github.com/harshil1903/leetcode/tree/main/Array/Ex_0004) |    Hard    |            |
 | 1313 | [Decompress Run-Length Encoded List](https://github.com/harshil1903/leetcode/tree/main/Array/Ex_1313) |    Easy    |            |
 | 1365 | [How Many Numbers Are Smaller Than the Current Number](https://github.com/harshil1903/leetcode/tree/main/Array/Ex_1365) |    Easy    | Hash Table |
+| 1389 | [Create Target Array in the Given Order](https://github.com/harshil1903/leetcode/tree/main/Array/Ex_1389) |            |            |
 | 1431 | [Kids With the Greatest Number of Candies](https://github.com/harshil1903/leetcode/tree/main/Array/Ex_1431) |    Easy    |            |
 | 1464 | [Maximum Product of Two Elements in an Array](https://github.com/harshil1903/leetcode/tree/main/Array/Ex_1464) |    Easy    |            |
 | 1465 | [Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts](https://github.com/harshil1903/leetcode/tree/main/Array/Ex_1465) |   Medium   |            |
