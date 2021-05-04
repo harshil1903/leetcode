@@ -2,9 +2,7 @@
 
 Practicing algorithm questions listed on LeetCode
 
-Solved so far:
-
-25
+Solved so far : 26	
 
 
 
@@ -33,6 +31,14 @@ Solved so far:
 |  #   | Title                                                        | Difficulty | Note |
 | :--: | :----------------------------------------------------------- | :--------: | :--: |
 | 0002 | [Add Two Numbers](https://github.com/harshil1903/leetcode/tree/main/Linked%20List/Ex_0002) |   Medium   |      |
+
+
+
+**Tree**
+
+|  #   | Title                                                        | Difficulty | Note |
+| :--: | :----------------------------------------------------------- | :--------: | :--: |
+| 1302 | [Deepest Leaves Sum](https://github.com/harshil1903/leetcode/tree/main/Tree/Ex_1302) |   Medium   |      |
 
 
 
