@@ -10,6 +10,7 @@ Solved so far:
 | :--: | :----------------------------------------------------------- | :--------: | :--: |
 | 0001 | [Two Sum](https://github.com/harshil1903/leetcode/tree/main/Array/Ex_0001) |    Easy    |      |
 | 0004 | [Median of Two Sorted Arrays](https://github.com/harshil1903/leetcode/tree/main/Array/Ex_0004) |    Hard    |      |
+| 1365 | [How Many Numbers Are Smaller Than the Current Number](https://github.com/harshil1903/leetcode/tree/main/Array/Ex_1365) |    Easy    |      |
 | 1431 | [Kids With the Greatest Number of Candies](https://github.com/harshil1903/leetcode/tree/main/Array/Ex_1431) |    Easy    |      |
 | 1464 | [Maximum Product of Two Elements in an Array](https://github.com/harshil1903/leetcode/tree/main/Array/Ex_1464) |    Easy    |      |
 | 1465 | [Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts](https://github.com/harshil1903/leetcode/tree/main/Array/Ex_1465) |   Medium   |      |
@@ -55,3 +56,11 @@ Solved so far:
 |  #   | Title                                                        | Difficulty | Note |
 | :--: | :----------------------------------------------------------- | :--------: | :--: |
 | 0193 | [Valid Phone Numbers](https://github.com/harshil1903/leetcode/tree/main/Shell/Ex_0193) |   Easy   |      |
+
+
+
+**Design**
+
+|  #   | Title                                                        | Difficulty | Note |
+| :--: | :----------------------------------------------------------- | :--------: | :--: |
+| 1603 | [Design Parking System](https://github.com/harshil1903/leetcode/tree/main/Design/Ex_1603) |    Easy    |      |
