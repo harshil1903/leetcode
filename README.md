@@ -4,22 +4,27 @@ Practicing algorithm questions listed on LeetCode
 
 Solved so far:
 
+25
+
+
+
 **Array** 
 
-|  #   | Title                                                        | Difficulty | Note |
-| :--: | :----------------------------------------------------------- | :--------: | :--: |
-| 0001 | [Two Sum](https://github.com/harshil1903/leetcode/tree/main/Array/Ex_0001) |    Easy    |      |
-| 0004 | [Median of Two Sorted Arrays](https://github.com/harshil1903/leetcode/tree/main/Array/Ex_0004) |    Hard    |      |
-| 1365 | [How Many Numbers Are Smaller Than the Current Number](https://github.com/harshil1903/leetcode/tree/main/Array/Ex_1365) |    Easy    |      |
-| 1431 | [Kids With the Greatest Number of Candies](https://github.com/harshil1903/leetcode/tree/main/Array/Ex_1431) |    Easy    |      |
-| 1464 | [Maximum Product of Two Elements in an Array](https://github.com/harshil1903/leetcode/tree/main/Array/Ex_1464) |    Easy    |      |
-| 1465 | [Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts](https://github.com/harshil1903/leetcode/tree/main/Array/Ex_1465) |   Medium   |      |
-| 1470 | [Shuffle the Array](https://github.com/harshil1903/leetcode/tree/main/Array/Ex_1470) |    Easy    |      |
-| 1476 | [Subrectangle Queries](https://github.com/harshil1903/leetcode/tree/main/Array/Ex_1476) |   Medium   |      |
-| 1480 | [Running Sum of 1d Array](https://github.com/harshil1903/leetcode/tree/main/Array/Ex_1480) |    Easy    |      |
-| 1512 | [Number of Good Pairs](https://github.com/harshil1903/leetcode/tree/main/Array/Ex_1512) |    Easy    |      |
-| 1672 | [Richest Customer Wealth](https://github.com/harshil1903/leetcode/tree/main/Array/Ex_1672) |    Easy    |      |
-| 1769 | [Minimum Number of Operations to Move All Balls to Each Box](https://github.com/harshil1903/leetcode/tree/main/Array/Ex_1769) |   Medium   |      |
+|  #   | Title                                                        | Difficulty |    Note    |
+| :--: | :----------------------------------------------------------- | :--------: | :--------: |
+| 0001 | [Two Sum](https://github.com/harshil1903/leetcode/tree/main/Array/Ex_0001) |    Easy    |            |
+| 0004 | [Median of Two Sorted Arrays](https://github.com/harshil1903/leetcode/tree/main/Array/Ex_0004) |    Hard    |            |
+| 1313 | [Decompress Run-Length Encoded List](https://github.com/harshil1903/leetcode/tree/main/Array/Ex_1313) |    Easy    |            |
+| 1365 | [How Many Numbers Are Smaller Than the Current Number](https://github.com/harshil1903/leetcode/tree/main/Array/Ex_1365) |    Easy    | Hash Table |
+| 1431 | [Kids With the Greatest Number of Candies](https://github.com/harshil1903/leetcode/tree/main/Array/Ex_1431) |    Easy    |            |
+| 1464 | [Maximum Product of Two Elements in an Array](https://github.com/harshil1903/leetcode/tree/main/Array/Ex_1464) |    Easy    |            |
+| 1465 | [Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts](https://github.com/harshil1903/leetcode/tree/main/Array/Ex_1465) |   Medium   |            |
+| 1470 | [Shuffle the Array](https://github.com/harshil1903/leetcode/tree/main/Array/Ex_1470) |    Easy    |            |
+| 1476 | [Subrectangle Queries](https://github.com/harshil1903/leetcode/tree/main/Array/Ex_1476) |   Medium   |            |
+| 1480 | [Running Sum of 1d Array](https://github.com/harshil1903/leetcode/tree/main/Array/Ex_1480) |    Easy    |            |
+| 1512 | [Number of Good Pairs](https://github.com/harshil1903/leetcode/tree/main/Array/Ex_1512) |    Easy    |            |
+| 1672 | [Richest Customer Wealth](https://github.com/harshil1903/leetcode/tree/main/Array/Ex_1672) |    Easy    |            |
+| 1769 | [Minimum Number of Operations to Move All Balls to Each Box](https://github.com/harshil1903/leetcode/tree/main/Array/Ex_1769) |   Medium   |            |
 
 ​	
 
@@ -52,6 +57,30 @@ Solved so far:
 
 
 
+**Sort**
+
+|  #   | Title                                                        | Difficulty | Note |
+| :--: | :----------------------------------------------------------- | :--------: | :--: |
+| 1528 | [Shuffle String](https://github.com/harshil1903/leetcode/tree/main/Sort/Ex_1528) |    Easy    |      |
+
+
+
+**Bit Manipulation**
+
+
+
+|  #   | Title                                                        | Difficulty | Note |
+| :--: | :----------------------------------------------------------- | :--------: | :--: |
+| 1342 | [Number of Steps to Reduce a Number to Zero](https://github.com/harshil1903/leetcode/tree/main/Bit%20Manipulation/Ex_1342) |    Easy    |      |
+
+**Design**
+
+|  #   | Title                                                        | Difficulty | Note |
+| :--: | :----------------------------------------------------------- | :--------: | :--: |
+| 1603 | [Design Parking System](https://github.com/harshil1903/leetcode/tree/main/Design/Ex_1603) |    Easy    |      |
+
+
+
 **Shell**
 
 |  #   | Title                                                        | Difficulty | Note |
@@ -60,8 +89,3 @@ Solved so far:
 
 
 
-**Design**
-
-|  #   | Title                                                        | Difficulty | Note |
-| :--: | :----------------------------------------------------------- | :--------: | :--: |
-| 1603 | [Design Parking System](https://github.com/harshil1903/leetcode/tree/main/Design/Ex_1603) |    Easy    |      |
