@@ -59,6 +59,7 @@ Solved so far : 26
 | :--: | :----------------------------------------------------------- | :--------: | :--: |
 | 0771 | [Jewels and Stones](https://github.com/harshil1903/leetcode/tree/main/String/Ex_0771) |    Easy    |      |
 | 1108 | [Defanging an IP Address](https://github.com/harshil1903/leetcode/tree/main/String/Ex_1108) |    Easy    |      |
+| 1678 | [Goal Parser Interpretation](https://github.com/harshil1903/leetcode/tree/main/String/Ex_1678) |    Easy    |      |
 | 1689 | [Partitioning Into Minimum Number Of Deci-Binary Numbers](https://github.com/harshil1903/leetcode/tree/main/String/Ex_1689) |   Medium   |      |
 
 
@@ -78,6 +79,7 @@ Solved so far : 26
 |  #   | Title                                                        | Difficulty | Note |
 | :--: | :----------------------------------------------------------- | :--------: | :--: |
 | 1342 | [Number of Steps to Reduce a Number to Zero](https://github.com/harshil1903/leetcode/tree/main/Bit%20Manipulation/Ex_1342) |    Easy    |      |
+| 1720 | [Decode XORed Array](https://github.com/harshil1903/leetcode/tree/main/Bit%20Manipulation/Ex_1720) |    Easy    |      |
 
 **Design**
 
