@@ -2,7 +2,7 @@
 
 Practicing algorithm questions listed on LeetCode
 
-Solved so far : 31	
+Solved so far : 32	
 
 
 
@@ -14,6 +14,7 @@ Solved so far : 31
 | 0004 | [Median of Two Sorted Arrays](https://github.com/harshil1903/leetcode/tree/main/Array/Ex_0004) |    Hard    |             |
 | 0011 | [Container With Most Water](https://github.com/harshil1903/leetcode/tree/main/Array/Ex_0011) |   Medium   | Two Pointer |
 | 0015 | [3Sum](https://github.com/harshil1903/leetcode/tree/main/Array/Ex_0015) |   Medium   | Two Pointer |
+| 0016 | [3Sum Closest](https://github.com/harshil1903/leetcode/tree/main/Array/Ex_0016) |   Medium   | Two Pointer |
 | 1313 | [Decompress Run-Length Encoded List](https://github.com/harshil1903/leetcode/tree/main/Array/Ex_1313) |    Easy    |             |
 | 1365 | [How Many Numbers Are Smaller Than the Current Number](https://github.com/harshil1903/leetcode/tree/main/Array/Ex_1365) |    Easy    | Hash Table  |
 | 1389 | [Create Target Array in the Given Order](https://github.com/harshil1903/leetcode/tree/main/Array/Ex_1389) |    Easy    |             |
