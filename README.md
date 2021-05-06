@@ -2,13 +2,13 @@
 
 Practicing algorithm questions listed on LeetCode
 
-Solved so far : 34		
+Solved so far : 35		
 
 
 
 
 
-### **Array**  (19)
+### **Array**  (20)
 
 |  #   | Title                                                        | Difficulty |           Note           |
 | :--: | :----------------------------------------------------------- | :--------: | :----------------------: |
