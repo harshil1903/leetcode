@@ -2,7 +2,7 @@
 
 Practicing algorithm questions listed on LeetCode
 
-Solved so far : 33	
+Solved so far : 34		
 
 
 
@@ -16,6 +16,7 @@ Solved so far : 33
 | 0015 | [3Sum](https://github.com/harshil1903/leetcode/tree/main/Array/Ex_0015) |   Medium   |       Two Pointer       |
 | 0016 | [3Sum Closest](https://github.com/harshil1903/leetcode/tree/main/Array/Ex_0016) |   Medium   |       Two Pointer       |
 | 0018 | [4Sum](https://github.com/harshil1903/leetcode/tree/main/Array/Ex_0018) |   Medium   | Two Pointer, Hash Table |
+| 0026 | [Remove Duplicates from Sorted Array](https://github.com/harshil1903/leetcode/tree/main/Array/Ex_0026) |    Easy    |       Two Pointer       |
 | 1313 | [Decompress Run-Length Encoded List](https://github.com/harshil1903/leetcode/tree/main/Array/Ex_1313) |    Easy    |                         |
 | 1365 | [How Many Numbers Are Smaller Than the Current Number](https://github.com/harshil1903/leetcode/tree/main/Array/Ex_1365) |    Easy    |       Hash Table        |
 | 1389 | [Create Target Array in the Given Order](https://github.com/harshil1903/leetcode/tree/main/Array/Ex_1389) |    Easy    |                         |
