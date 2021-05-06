@@ -10,27 +10,28 @@ Solved so far : 34
 
 ### **Array**  (19)
 
-|  #   | Title                                                        | Difficulty |          Note           |
-| :--: | :----------------------------------------------------------- | :--------: | :---------------------: |
-| 0001 | [Two Sum](https://github.com/harshil1903/leetcode/tree/main/Array/Ex_0001) |    Easy    |                         |
-| 0004 | [Median of Two Sorted Arrays](https://github.com/harshil1903/leetcode/tree/main/Array/Ex_0004) |    Hard    |                         |
-| 0011 | [Container With Most Water](https://github.com/harshil1903/leetcode/tree/main/Array/Ex_0011) |   Medium   |       Two Pointer       |
-| 0015 | [3Sum](https://github.com/harshil1903/leetcode/tree/main/Array/Ex_0015) |   Medium   |       Two Pointer       |
-| 0016 | [3Sum Closest](https://github.com/harshil1903/leetcode/tree/main/Array/Ex_0016) |   Medium   |       Two Pointer       |
-| 0018 | [4Sum](https://github.com/harshil1903/leetcode/tree/main/Array/Ex_0018) |   Medium   | Two Pointer, Hash Table |
-| 0026 | [Remove Duplicates from Sorted Array](https://github.com/harshil1903/leetcode/tree/main/Array/Ex_0026) |    Easy    |       Two Pointer       |
-| 1313 | [Decompress Run-Length Encoded List](https://github.com/harshil1903/leetcode/tree/main/Array/Ex_1313) |    Easy    |                         |
-| 1365 | [How Many Numbers Are Smaller Than the Current Number](https://github.com/harshil1903/leetcode/tree/main/Array/Ex_1365) |    Easy    |       Hash Table        |
-| 1389 | [Create Target Array in the Given Order](https://github.com/harshil1903/leetcode/tree/main/Array/Ex_1389) |    Easy    |                         |
-| 1431 | [Kids With the Greatest Number of Candies](https://github.com/harshil1903/leetcode/tree/main/Array/Ex_1431) |    Easy    |                         |
-| 1464 | [Maximum Product of Two Elements in an Array](https://github.com/harshil1903/leetcode/tree/main/Array/Ex_1464) |    Easy    |                         |
-| 1465 | [Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts](https://github.com/harshil1903/leetcode/tree/main/Array/Ex_1465) |   Medium   |                         |
-| 1470 | [Shuffle the Array](https://github.com/harshil1903/leetcode/tree/main/Array/Ex_1470) |    Easy    |                         |
-| 1476 | [Subrectangle Queries](https://github.com/harshil1903/leetcode/tree/main/Array/Ex_1476) |   Medium   |                         |
-| 1480 | [Running Sum of 1d Array](https://github.com/harshil1903/leetcode/tree/main/Array/Ex_1480) |    Easy    |                         |
-| 1512 | [Number of Good Pairs](https://github.com/harshil1903/leetcode/tree/main/Array/Ex_1512) |    Easy    |                         |
-| 1672 | [Richest Customer Wealth](https://github.com/harshil1903/leetcode/tree/main/Array/Ex_1672) |    Easy    |                         |
-| 1769 | [Minimum Number of Operations to Move All Balls to Each Box](https://github.com/harshil1903/leetcode/tree/main/Array/Ex_1769) |   Medium   |                         |
+|  #   | Title                                                        | Difficulty |           Note           |
+| :--: | :----------------------------------------------------------- | :--------: | :----------------------: |
+| 0001 | [Two Sum](https://github.com/harshil1903/leetcode/tree/main/Array/Ex_0001) |    Easy    |                          |
+| 0004 | [Median of Two Sorted Arrays](https://github.com/harshil1903/leetcode/tree/main/Array/Ex_0004) |    Hard    |                          |
+| 0011 | [Container With Most Water](https://github.com/harshil1903/leetcode/tree/main/Array/Ex_0011) |   Medium   |       Two Pointers       |
+| 0015 | [3Sum](https://github.com/harshil1903/leetcode/tree/main/Array/Ex_0015) |   Medium   |       Two Pointers       |
+| 0016 | [3Sum Closest](https://github.com/harshil1903/leetcode/tree/main/Array/Ex_0016) |   Medium   |       Two Pointers       |
+| 0018 | [4Sum](https://github.com/harshil1903/leetcode/tree/main/Array/Ex_0018) |   Medium   | Two Pointers, Hash Table |
+| 0026 | [Remove Duplicates from Sorted Array](https://github.com/harshil1903/leetcode/tree/main/Array/Ex_0026) |    Easy    |       Two Pointers       |
+| 0027 | [Remove Element](https://github.com/harshil1903/leetcode/tree/main/Array/Ex_0027) |    Easy    |       Two Pointers       |
+| 1313 | [Decompress Run-Length Encoded List](https://github.com/harshil1903/leetcode/tree/main/Array/Ex_1313) |    Easy    |                          |
+| 1365 | [How Many Numbers Are Smaller Than the Current Number](https://github.com/harshil1903/leetcode/tree/main/Array/Ex_1365) |    Easy    |        Hash Table        |
+| 1389 | [Create Target Array in the Given Order](https://github.com/harshil1903/leetcode/tree/main/Array/Ex_1389) |    Easy    |                          |
+| 1431 | [Kids With the Greatest Number of Candies](https://github.com/harshil1903/leetcode/tree/main/Array/Ex_1431) |    Easy    |                          |
+| 1464 | [Maximum Product of Two Elements in an Array](https://github.com/harshil1903/leetcode/tree/main/Array/Ex_1464) |    Easy    |                          |
+| 1465 | [Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts](https://github.com/harshil1903/leetcode/tree/main/Array/Ex_1465) |   Medium   |                          |
+| 1470 | [Shuffle the Array](https://github.com/harshil1903/leetcode/tree/main/Array/Ex_1470) |    Easy    |                          |
+| 1476 | [Subrectangle Queries](https://github.com/harshil1903/leetcode/tree/main/Array/Ex_1476) |   Medium   |                          |
+| 1480 | [Running Sum of 1d Array](https://github.com/harshil1903/leetcode/tree/main/Array/Ex_1480) |    Easy    |                          |
+| 1512 | [Number of Good Pairs](https://github.com/harshil1903/leetcode/tree/main/Array/Ex_1512) |    Easy    |                          |
+| 1672 | [Richest Customer Wealth](https://github.com/harshil1903/leetcode/tree/main/Array/Ex_1672) |    Easy    |                          |
+| 1769 | [Minimum Number of Operations to Move All Balls to Each Box](https://github.com/harshil1903/leetcode/tree/main/Array/Ex_1769) |   Medium   |                          |
 
 ​	
 
