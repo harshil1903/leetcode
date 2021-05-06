@@ -6,7 +6,9 @@ Solved so far : 34
 
 
 
-**Array** 
+
+
+### **Array**  (19)
 
 |  #   | Title                                                        | Difficulty |          Note           |
 | :--: | :----------------------------------------------------------- | :--------: | :---------------------: |
@@ -32,7 +34,7 @@ Solved so far : 34
 
 ​	
 
-**Linked List**
+### **Linked List** (1)
 
 |  #   | Title                                                        | Difficulty | Note |
 | :--: | :----------------------------------------------------------- | :--------: | :--: |
@@ -40,7 +42,7 @@ Solved so far : 34
 
 
 
-**Tree**
+### **Tree** (1)
 
 |  #   | Title                                                        | Difficulty | Note |
 | :--: | :----------------------------------------------------------- | :--------: | :--: |
@@ -48,7 +50,7 @@ Solved so far : 34
 
 
 
-**Math**
+### **Math** (4)
 
 |  #   | Title                                                        | Difficulty | Note |
 | :--: | :----------------------------------------------------------- | :--------: | :--: |
@@ -59,7 +61,7 @@ Solved so far : 34
 
 
 
-**String**
+### **String** (4)
 
 |  #   | Title                                                        | Difficulty | Note |
 | :--: | :----------------------------------------------------------- | :--------: | :--: |
@@ -70,7 +72,7 @@ Solved so far : 34
 
 
 
-**Sort**
+### **Sort** (1)
 
 |  #   | Title                                                        | Difficulty | Note |
 | :--: | :----------------------------------------------------------- | :--------: | :--: |
@@ -78,16 +80,16 @@ Solved so far : 34
 
 
 
-**Bit Manipulation**
-
-
+### **Bit Manipulation** (1)
 
 |  #   | Title                                                        | Difficulty | Note |
 | :--: | :----------------------------------------------------------- | :--------: | :--: |
 | 1342 | [Number of Steps to Reduce a Number to Zero](https://github.com/harshil1903/leetcode/tree/main/Bit%20Manipulation/Ex_1342) |    Easy    |      |
 | 1720 | [Decode XORed Array](https://github.com/harshil1903/leetcode/tree/main/Bit%20Manipulation/Ex_1720) |    Easy    |      |
 
-**Design**
+
+
+### **Design ** (1)
 
 |  #   | Title                                                        | Difficulty | Note |
 | :--: | :----------------------------------------------------------- | :--------: | :--: |
@@ -95,7 +97,7 @@ Solved so far : 34
 
 
 
-**Shell**
+### **Shell ** (1)
 
 |  #   | Title                                                        | Difficulty | Note |
 | :--: | :----------------------------------------------------------- | :--------: | :--: |
