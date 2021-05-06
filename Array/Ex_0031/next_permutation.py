@@ -62,5 +62,9 @@ class Solution:
 
 if __name__ == "__main__":
     s = Solution()
-    print(s.nextPermutation([1, 2, 3]));
-    print(s.nextPermutation1([1, 2, 3]));
+    test = [1,2,3]
+    test1 = [1,2,3]
+    s.nextPermutation(test)
+    s.nextPermutation1(test)
+    print(test);
+    print(test1);
