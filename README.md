@@ -63,10 +63,11 @@ Solved so far : 36
 
 
 
-### **String** (4)
+### **String** (5)
 
 |  #   | Title                                                        | Difficulty | Note |
 | :--: | :----------------------------------------------------------- | :--------: | :--: |
+| 0008 | [String to Integer (atoi)](https://github.com/harshil1903/leetcode/tree/main/String/Ex_0008) |   Medium   | Math |
 | 0771 | [Jewels and Stones](https://github.com/harshil1903/leetcode/tree/main/String/Ex_0771) |    Easy    |      |
 | 1108 | [Defanging an IP Address](https://github.com/harshil1903/leetcode/tree/main/String/Ex_1108) |    Easy    |      |
 | 1678 | [Goal Parser Interpretation](https://github.com/harshil1903/leetcode/tree/main/String/Ex_1678) |    Easy    |      |
