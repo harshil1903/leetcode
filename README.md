@@ -84,7 +84,7 @@ Solved so far : 38
 
 
 
-### **Bit Manipulation** (1)
+### **Bit Manipulation** (2)
 
 |  #   | Title                                                        | Difficulty | Note |
 | :--: | :----------------------------------------------------------- | :--------: | :--: |
