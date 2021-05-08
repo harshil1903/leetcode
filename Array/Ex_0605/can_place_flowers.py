@@ -48,6 +48,8 @@ class Solution:
             if n <= 0:
                 return True
         return False
+
+
 if __name__ == "__main__":
     s = Solution()
     print(s.canPlaceFlowers([1,0,0,0,1],1))
