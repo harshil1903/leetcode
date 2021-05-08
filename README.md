@@ -2,13 +2,13 @@
 
 Practicing algorithm questions listed on LeetCode
 
-Solved so far : 41		
+Solved so far : 42	
 
 
 
 
 
-### **Array**  (21)
+### **Array**  (22)
 
 |  #   | Title                                                        | Difficulty |           Note           |
 | :--: | :----------------------------------------------------------- | :--------: | :----------------------: |
@@ -21,6 +21,7 @@ Solved so far : 41
 | 0026 | [Remove Duplicates from Sorted Array](https://github.com/harshil1903/leetcode/tree/main/Array/Ex_0026) |    Easy    |       Two Pointers       |
 | 0027 | [Remove Element](https://github.com/harshil1903/leetcode/tree/main/Array/Ex_0027) |    Easy    |       Two Pointers       |
 | 0031 | [Next Permutation](https://github.com/harshil1903/leetcode/tree/main/Array/Ex_0031) |   Medium   |                          |
+| 0414 | [Third Maximum Number](https://github.com/harshil1903/leetcode/tree/main/Array/Ex_0414) |    Easy    |                          |
 | 1313 | [Decompress Run-Length Encoded List](https://github.com/harshil1903/leetcode/tree/main/Array/Ex_1313) |    Easy    |                          |
 | 1365 | [How Many Numbers Are Smaller Than the Current Number](https://github.com/harshil1903/leetcode/tree/main/Array/Ex_1365) |    Easy    |        Hash Table        |
 | 1389 | [Create Target Array in the Given Order](https://github.com/harshil1903/leetcode/tree/main/Array/Ex_1389) |    Easy    |                          |
