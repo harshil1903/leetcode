@@ -2,7 +2,7 @@
 
 Practicing algorithm questions listed on LeetCode
 
-Solved so far : 40		
+Solved so far : 41		
 
 
 
@@ -65,13 +65,14 @@ Solved so far : 40
 
 
 
-### **String** (6)
+### **String** (7)
 
 |  #   | Title                                                        | Difficulty | Note |
 | :--: | :----------------------------------------------------------- | :--------: | :--: |
 | 0008 | [String to Integer (atoi)](https://github.com/harshil1903/leetcode/tree/main/String/Ex_0008) |   Medium   | Math |
 | 0065 | [Valid Number](https://github.com/harshil1903/leetcode/tree/main/String/Ex_0065) |    Hard    | Math |
 | 0771 | [Jewels and Stones](https://github.com/harshil1903/leetcode/tree/main/String/Ex_0771) |    Easy    |      |
+| 0859 | [Buddy Strings](https://github.com/harshil1903/leetcode/tree/main/String/Ex_0859) |    Easy    |      |
 | 1108 | [Defanging an IP Address](https://github.com/harshil1903/leetcode/tree/main/String/Ex_1108) |    Easy    |      |
 | 1678 | [Goal Parser Interpretation](https://github.com/harshil1903/leetcode/tree/main/String/Ex_1678) |    Easy    |      |
 | 1689 | [Partitioning Into Minimum Number Of Deci-Binary Numbers](https://github.com/harshil1903/leetcode/tree/main/String/Ex_1689) |   Medium   |      |
