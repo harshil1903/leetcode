@@ -31,6 +31,8 @@ class Solution:
         if c == float('-inf'):
             return a
         return c
+
+
 if __name__ == "__main__":
     s = Solution()
     print(s.thirdMax([3,2,1]))
