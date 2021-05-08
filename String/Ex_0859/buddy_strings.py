@@ -1,7 +1,5 @@
 class Solution:
     def buddyStrings(self, a: str, b: str) -> bool:
-        a = list(a)
-        b = list(b)
         myset = set()
         size = len(a)
         diff = []
@@ -25,9 +23,6 @@ class Solution:
         return False
 
     def buddyStrings1(self, a: str, b: str) -> bool:
-        a = list(a)
-        b = list(b)
-        myset = set()
         size = len(a)
         diff = []
         if size != len(b):
