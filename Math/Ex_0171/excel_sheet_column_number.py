@@ -6,6 +6,7 @@ class Solution:
             result += ord(columnTitle[i]) - ord('A') + 1
         return result
 
+
 if __name__ == "__main__":
     s = Solution()
     print(s.titleToNumber("ARAMXEL"))
