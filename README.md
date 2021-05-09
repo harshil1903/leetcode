@@ -95,6 +95,7 @@ Solved so far : 47
 
 |  #   | Title                                                        | Difficulty | Note |
 | :--: | :----------------------------------------------------------- | :--------: | :--: |
+| 1370 | [Increasing Decreasing String](https://github.com/harshil1903/leetcode/tree/main/Sort/Ex_1370) |    Easy    |      |
 | 1528 | [Shuffle String](https://github.com/harshil1903/leetcode/tree/main/Sort/Ex_1528) |    Easy    |      |
 
 
