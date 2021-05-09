@@ -61,6 +61,7 @@ Solved so far : 43
 | 0007 | [Reverse Integer](https://github.com/harshil1903/leetcode/tree/main/Math/Ex_0007) |    Easy    |                  |
 | 0009 | [Palindrome Number](https://github.com/harshil1903/leetcode/tree/main/Math/Ex_0009) |    Easy    |                  |
 | 0029 | [Divide Two Numbers](https://github.com/harshil1903/leetcode/tree/main/Math/Ex_0029) |   Medium   | Bit Manipulation |
+| 0168 | [Excel Sheet Column Title](https://github.com/harshil1903/leetcode/tree/main/Math/Ex_0168) |    Easy    |                  |
 | 0149 | [Max Points on a Line](https://github.com/harshil1903/leetcode/tree/main/Math/Ex_0149) |    Hard    |    Hash Table    |
 | 1281 | [Subtract the Product and Sum of Digits of an Integer](https://github.com/harshil1903/leetcode/tree/main/Math/Ex_1281) |    Easy    |                  |
 | 1828 | [Queries on Number of Points Inside a Circle](https://github.com/harshil1903/leetcode/tree/main/Math/Ex_1828) |    Easy    |                  |
