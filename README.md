@@ -87,6 +87,7 @@ Solved so far : 49
 
 |  #   | Title                                                        | Difficulty | Note |
 | :--: | :----------------------------------------------------------- | :--------: | :--: |
+| 0938 | [Range Sum of BST](https://github.com/harshil1903/leetcode/tree/main/Tree/Ex_0938) |    Easy    |      |
 | 1302 | [Deepest Leaves Sum](https://github.com/harshil1903/leetcode/tree/main/Tree/Ex_1302) |   Medium   |      |
 
 
