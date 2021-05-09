@@ -2,7 +2,7 @@
 
 Practicing algorithm questions listed on LeetCode
 
-Solved so far : 48	
+Solved so far : 49	
 
 
 
@@ -109,7 +109,7 @@ Solved so far : 48
 
 
 
-### **Design** (1)
+### **Design** (2)
 
 |  #   | Title                                                        | Difficulty | Note |
 | :--: | :----------------------------------------------------------- | :--------: | :--: |
