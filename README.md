@@ -2,7 +2,7 @@
 
 Practicing algorithm questions listed on LeetCode
 
-Solved so far : 43	
+Solved so far : 44	
 
 
 
@@ -54,7 +54,7 @@ Solved so far : 43
 
 
 
-### **Math** (6)
+### **Math** (7)
 
 |  #   | Title                                                        | Difficulty |       Note       |
 | :--: | :----------------------------------------------------------- | :--------: | :--------------: |
