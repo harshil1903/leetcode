@@ -23,6 +23,7 @@ class OrderedStream:
             return st
 
         return []
+
     def insert1(self, idKey: int, value: str) -> List[str]:
         idKey -= 1
         self.stream[idKey] = value
