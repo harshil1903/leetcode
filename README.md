@@ -114,6 +114,7 @@ Solved so far : 48
 |  #   | Title                                                        | Difficulty | Note |
 | :--: | :----------------------------------------------------------- | :--------: | :--: |
 | 1603 | [Design Parking System](https://github.com/harshil1903/leetcode/tree/main/Design/Ex_1603) |    Easy    |      |
+| 1656 | [Design an Ordered Stream](https://github.com/harshil1903/leetcode/tree/main/Design/Ex_1656) |    Easy    |      |
 
 
 
