@@ -12,6 +12,12 @@ class Solution:
             head = head.next
         return result
 
+    def getDecimalValue1(self, head: ListNode) -> int:
+        result = 0
+        while head:
+            result = (result << 1) | head.val
+            head = head.next
+        return result
 
 
 # Input: head = [1,0,1]
