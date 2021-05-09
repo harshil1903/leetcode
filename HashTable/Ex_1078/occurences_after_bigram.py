@@ -1,3 +1,6 @@
+from typing import List
+
+
 class Solution:
     def findOcurrences(self, text: str, first: str, second: str) -> List[str]:
         l = text.split()
@@ -10,3 +13,7 @@ class Solution:
                 res.append(l[i])
 
         return res
+
+if __name__ == "__main__":
+    s = Solution()
+    print(s.findOcurrences("alice is a good girl she is a good student", "a", "good"))
