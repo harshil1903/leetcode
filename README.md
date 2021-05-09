@@ -2,7 +2,7 @@
 
 Practicing algorithm questions listed on LeetCode
 
-Solved so far : 49	
+Solved so far : 50	
 
 
 
@@ -83,7 +83,7 @@ Solved so far : 49
 
 
 
-### **Tree** (1)
+### **Tree** (2)
 
 |  #   | Title                                                        | Difficulty | Note |
 | :--: | :----------------------------------------------------------- | :--------: | :--: |
