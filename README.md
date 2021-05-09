@@ -85,9 +85,9 @@ Solved so far : 46
 
 ### **Hash Table** (1)
 
-|  #   | Title | Difficulty | Note |
-| :--: | :---- | :--------: | :--: |
-| 1078 |       |    Easy    |      |
+|  #   | Title                                                        | Difficulty | Note |
+| :--: | :----------------------------------------------------------- | :--------: | :--: |
+| 1078 | [Occurrences After Bigram](https://github.com/harshil1903/leetcode/tree/main/HashTable/Ex_1078) |    Easy    |      |
 
 
 
