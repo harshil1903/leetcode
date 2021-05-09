@@ -121,6 +121,7 @@ Solved so far : 46
 |  #   | Title                                                        | Difficulty | Note |
 | :--: | :----------------------------------------------------------- | :--------: | :--: |
 | 0193 | [Valid Phone Numbers](https://github.com/harshil1903/leetcode/tree/main/Shell/Ex_0193) |   Easy   |      |
+| 0195 | [Tenth Line](https://github.com/harshil1903/leetcode/tree/main/Shell/Ex_0195) | Easy | |
 
 
 
