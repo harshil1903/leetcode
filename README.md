@@ -32,7 +32,7 @@ Solved so far : 50
 | 1470 | [Shuffle the Array](https://github.com/harshil1903/leetcode/tree/main/Array/Ex_1470) |    Easy    |                          |
 | 1476 | [Subrectangle Queries](https://github.com/harshil1903/leetcode/tree/main/Array/Ex_1476) |   Medium   |                          |
 | 1480 | [Running Sum of 1d Array](https://github.com/harshil1903/leetcode/tree/main/Array/Ex_1480) |    Easy    |                          |
-| 1512 | [Number of Good Pairs](https://github.com/harshil1903/leetcode/tree/main/Array/Ex_1512) |    Easy    |                          |
+| 1512 | [Number of Good Pairs](https://github.com/harshil1903/leetcode/tree/main/Array/Ex_1512) |    Easy    |     Hash Table, Math     |
 | 1672 | [Richest Customer Wealth](https://github.com/harshil1903/leetcode/tree/main/Array/Ex_1672) |    Easy    |                          |
 | 1769 | [Minimum Number of Operations to Move All Balls to Each Box](https://github.com/harshil1903/leetcode/tree/main/Array/Ex_1769) |   Medium   |                          |
 
@@ -61,13 +61,12 @@ Solved so far : 50
 
 
 
-### **String** (7)
+### **String** (6)
 
 |  #   | Title                                                        | Difficulty | Note |
 | :--: | :----------------------------------------------------------- | :--------: | :--: |
 | 0008 | [String to Integer (atoi)](https://github.com/harshil1903/leetcode/tree/main/String/Ex_0008) |   Medium   | Math |
 | 0065 | [Valid Number](https://github.com/harshil1903/leetcode/tree/main/String/Ex_0065) |    Hard    | Math |
-| 0771 | [Jewels and Stones](https://github.com/harshil1903/leetcode/tree/main/String/Ex_0771) |    Easy    |      |
 | 0859 | [Buddy Strings](https://github.com/harshil1903/leetcode/tree/main/String/Ex_0859) |    Easy    |      |
 | 1108 | [Defanging an IP Address](https://github.com/harshil1903/leetcode/tree/main/String/Ex_1108) |    Easy    |      |
 | 1678 | [Goal Parser Interpretation](https://github.com/harshil1903/leetcode/tree/main/String/Ex_1678) |    Easy    |      |
@@ -75,10 +74,11 @@ Solved so far : 50
 
 
 
-### **Hash Table** (1)
+### **Hash Table** (2)
 
 |  #   | Title                                                        | Difficulty | Note |
 | :--: | :----------------------------------------------------------- | :--------: | :--: |
+| 0771 | [Jewels and Stones](https://github.com/harshil1903/leetcode/tree/main/HashTable/Ex_0771) |    Easy    |      |
 | 1078 | [Occurrences After Bigram](https://github.com/harshil1903/leetcode/tree/main/HashTable/Ex_1078) |    Easy    |      |
 
 
