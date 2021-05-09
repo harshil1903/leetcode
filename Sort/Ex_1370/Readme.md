@@ -1,6 +1,7 @@
 1370. Increasing Decreasing String
 
 Source : https://leetcode.com/problems/increasing-decreasing-string/
+
 Given a string s. You should re-order the string using the following algorithm:
 
 Pick the smallest character from s and append it to the result.
