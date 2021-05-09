@@ -2,7 +2,7 @@
 
 Practicing algorithm questions listed on LeetCode
 
-Solved so far : 46	
+Solved so far : 47	
 
 
 
@@ -116,7 +116,7 @@ Solved so far : 46
 
 
 
-### **Shell** (1)
+### **Shell** (2)
 
 |  #   | Title                                                        | Difficulty | Note |
 | :--: | :----------------------------------------------------------- | :--------: | :--: |
