@@ -2,7 +2,7 @@
 
 Practicing algorithm questions listed on LeetCode
 
-Solved so far : 50	
+Solved so far : 51	
 
 
 
@@ -38,11 +38,12 @@ Solved so far : 50
 
 ​	
 
-### **Linked List** (1)
+### **Linked List** (2)
 
 |  #   | Title                                                        | Difficulty | Note |
 | :--: | :----------------------------------------------------------- | :--------: | :--: |
 | 0002 | [Add Two Numbers](https://github.com/harshil1903/leetcode/tree/main/Linked%20List/Ex_0002) |   Medium   |      |
+| 1290 | [Convert Binary Number in a Linked List to Integer](https://github.com/harshil1903/leetcode/tree/main/Linked%20List/Ex_1290) |    Easy    |      |
 
 
 
