@@ -46,14 +46,6 @@ Solved so far : 49
 
 
 
-### **Tree** (1)
-
-|  #   | Title                                                        | Difficulty | Note |
-| :--: | :----------------------------------------------------------- | :--------: | :--: |
-| 1302 | [Deepest Leaves Sum](https://github.com/harshil1903/leetcode/tree/main/Tree/Ex_1302) |   Medium   |      |
-
-
-
 ### **Math** (8)
 
 |  #   | Title                                                        | Difficulty |       Note       |
@@ -88,6 +80,14 @@ Solved so far : 49
 |  #   | Title                                                        | Difficulty | Note |
 | :--: | :----------------------------------------------------------- | :--------: | :--: |
 | 1078 | [Occurrences After Bigram](https://github.com/harshil1903/leetcode/tree/main/HashTable/Ex_1078) |    Easy    |      |
+
+
+
+### **Tree** (1)
+
+|  #   | Title                                                        | Difficulty | Note |
+| :--: | :----------------------------------------------------------- | :--------: | :--: |
+| 1302 | [Deepest Leaves Sum](https://github.com/harshil1903/leetcode/tree/main/Tree/Ex_1302) |   Medium   |      |
 
 
 
