@@ -2,7 +2,7 @@
 
 Practicing algorithm questions listed on LeetCode
 
-Solved so far : 51	
+Solved so far : 52	
 
 
 
@@ -54,7 +54,7 @@ Solved so far : 51
 | 0007 | [Reverse Integer](https://github.com/harshil1903/leetcode/tree/main/Math/Ex_0007) |    Easy    |                  |
 | 0009 | [Palindrome Number](https://github.com/harshil1903/leetcode/tree/main/Math/Ex_0009) |    Easy    |                  |
 | 0029 | [Divide Two Numbers](https://github.com/harshil1903/leetcode/tree/main/Math/Ex_0029) |   Medium   | Bit Manipulation |
-| 0149 | [Max Points on a Line](https://github.com/harshil1903/leetcode/tree/main/Math/Ex_0149) |    Hard    |   sHash Table    |
+| 0149 | [Max Points on a Line](https://github.com/harshil1903/leetcode/tree/main/Math/Ex_0149) |    Hard    |    Hash Table    |
 | 0168 | [Excel Sheet Column Title](https://github.com/harshil1903/leetcode/tree/main/Math/Ex_0168) |    Easy    |                  |
 | 0171 | [Excel Sheet Column Number](https://github.com/harshil1903/leetcode/tree/main/Math/Ex_0171) |    Easy    |                  |
 | 1281 | [Subtract the Product and Sum of Digits of an Integer](https://github.com/harshil1903/leetcode/tree/main/Math/Ex_1281) |    Easy    |                  |
@@ -62,7 +62,7 @@ Solved so far : 51
 
 
 
-### **String** (6)
+### **String** (7)
 
 |  #   | Title                                                        | Difficulty | Note |
 | :--: | :----------------------------------------------------------- | :--------: | :--: |
@@ -72,6 +72,7 @@ Solved so far : 51
 | 1108 | [Defanging an IP Address](https://github.com/harshil1903/leetcode/tree/main/String/Ex_1108) |    Easy    |      |
 | 1678 | [Goal Parser Interpretation](https://github.com/harshil1903/leetcode/tree/main/String/Ex_1678) |    Easy    |      |
 | 1689 | [Partitioning Into Minimum Number Of Deci-Binary Numbers](https://github.com/harshil1903/leetcode/tree/main/String/Ex_1689) |   Medium   |      |
+| 1880 | [Check if Word Equals Summation of Two Words](https://github.com/harshil1903/leetcode/tree/main/String/Ex_1880) |    Easy    |      |
 
 
 
