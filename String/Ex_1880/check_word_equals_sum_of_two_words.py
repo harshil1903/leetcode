@@ -11,7 +11,7 @@ class Solution:
     def isSumEqual2(self, firstWord: str, secondWord: str, targetWord: str) -> bool:
         # ord('a') = 97
 
-        first, second, third = 0, 0, 0
+        first, second, target = 0, 0, 0
         length = len(firstWord)
 
         for i in firstWord:
@@ -28,11 +28,11 @@ class Solution:
 
         for i in targetWord:
             length -= 1
-            third = third + ((ord(i) - 97) * 10 ** length)
+            target = target + ((ord(i) - 97) * 10 ** length)
 
-        return first + second == third
+        return first + second == target
 
 if __name__ == '__main__':
     s = Solution();
-    print(s.isSumEqual("acb", "cba", "cdb"))
+    print(s.isSumEqual2("acb", "cba", "cdb"))
     print(s.isSumEqual("aaa", "a", "aab"))
