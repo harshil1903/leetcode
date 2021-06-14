@@ -2,7 +2,7 @@
 
 Practicing algorithm questions listed on LeetCode
 
-Solved so far : 52	
+Solved so far : 53	
 
 
 
@@ -35,6 +35,7 @@ Solved so far : 52
 | 1512 | [Number of Good Pairs](https://github.com/harshil1903/leetcode/tree/main/Array/Ex_1512) |    Easy    |     Hash Table, Math     |
 | 1672 | [Richest Customer Wealth](https://github.com/harshil1903/leetcode/tree/main/Array/Ex_1672) |    Easy    |                          |
 | 1769 | [Minimum Number of Operations to Move All Balls to Each Box](https://github.com/harshil1903/leetcode/tree/main/Array/Ex_1769) |   Medium   |                          |
+| 1773 | [Count Items Matching a Rule](https://github.com/harshil1903/leetcode/tree/main/Array/Ex_1773) |    Easy    |          String          |
 
 ​	
 
