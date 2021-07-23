@@ -1,3 +1,16 @@
+
+# 859. Buddy Strings
+#
+# Source : https://leetcode.com/problems/buddy-strings/
+#
+# Given two strings a and b, return true if you can swap two letters in a so the result is equal to b, otherwise, return false.
+#
+# Swapping letters is defined as taking two indices i and j (0-indexed) such that i != j and swapping the characters at a[i] and a[j].
+#
+# For example, swapping at indices 0 and 2 in "abcd" results in "cbad".
+
+
+
 class Solution:
     def buddyStrings(self, a: str, b: str) -> bool:
         myset = set()
