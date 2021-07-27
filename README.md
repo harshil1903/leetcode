@@ -2,7 +2,7 @@
 
 Practicing algorithm questions listed on LeetCode
 
-Solved so far : 55	
+Solved so far : 56	
 
 
 
@@ -13,6 +13,7 @@ Solved so far : 55
 |  #   | Title                                                        | Difficulty |           Note           |
 | :--: | :----------------------------------------------------------- | :--------: | :----------------------: |
 | 0001 | [Two Sum](https://github.com/harshil1903/leetcode/blob/main/Array/0001_two_sum.py) |    Easy    |                          |
+| 0003 | [Longest Substring Without Repeating Characters](https://github.com/harshil1903/leetcode/blob/main/Array/0003_longest_substring_without_repeating_characters.py) |   Medium   |                          |
 | 0004 | [Median of Two Sorted Arrays](https://github.com/harshil1903/leetcode/blob/main/Array/0004_median_of_two_sorted_array.py) |    Hard    |                          |
 | 0011 | [Container With Most Water](https://github.com/harshil1903/leetcode/blob/main/Array/0011_container_with_most_water.py) |   Medium   |       Two Pointers       |
 | 0015 | [3Sum](https://github.com/harshil1903/leetcode/blob/main/Array/0015_three_sum.py) |   Medium   |       Two Pointers       |
