@@ -2,7 +2,7 @@
 
 Practicing algorithm questions listed on LeetCode
 
-Solved so far : 57	
+Solved so far : 58	
 
 
 
