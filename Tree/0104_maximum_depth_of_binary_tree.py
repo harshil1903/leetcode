@@ -26,6 +26,11 @@ class Solution:
         r = 1 + self.maxDepth(root.right)
         return max(l, r)
 
+    def maxDepth1(self, root: TreeNode) -> int:
+        if root is None:
+            return 0
+        else:
+            return max(self.maxDepth(root.left), self.maxDepth(root.right)) + 1
 
 # Input: root = [3,9,20,null,null,15,7]
 # Output: 3
