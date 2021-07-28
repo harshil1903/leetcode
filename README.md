@@ -2,7 +2,7 @@
 
 Practicing algorithm questions listed on LeetCode
 
-Solved so far : 59	
+Solved so far : 60	
 
 
 
@@ -41,11 +41,12 @@ Solved so far : 59
 
 ​	
 
-### **Linked List** (2)
+### **Linked List** (3)
 
 |  #   | Title                                                        | Difficulty | Note |
 | :--: | :----------------------------------------------------------- | :--------: | :--: |
 | 0002 | [Add Two Numbers](https://github.com/harshil1903/leetcode/blob/main/Linked%20List/0002_add_two_numbers.py) |   Medium   |      |
+| 0025 | [Reverse Nodes in k-Group](https://github.com/harshil1903/leetcode/blob/main/Linked%20List/0025_reverse_nodes_in_k_group.py) |    Hard    |      |
 | 1290 | [Convert Binary Number in a Linked List to Integer](https://github.com/harshil1903/leetcode/blob/main/Linked%20List/1290_convert_binary_number_in_a_linked_list_to_integer.py) |    Easy    |      |
 
 
