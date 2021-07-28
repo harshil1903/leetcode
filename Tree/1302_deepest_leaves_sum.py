@@ -13,7 +13,6 @@ class TreeNode(object):
         self.val = x
         self.left = None
         self.right = None
-from idlelib.tree import TreeNode
 
 
 class Solution:
