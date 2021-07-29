@@ -31,6 +31,24 @@ class Solution:
 
         return len(stack) == 0
 
+    #referenced
+    def isValid1(self, s: str) -> bool:
+
+        pairs = []
+        for c in s:
+            if c in ('(', '{', '['):
+                pairs.append(c)
+            else:
+                if len(pairs) == 0:
+                    return False
+                last = pairs.pop(-1)
+                if (last == '(' and c != ')') or (last == '{' and c != '}') or (last == '[' and c != ']'):
+                    return False
+        if len(pairs) == 0:
+            return True
+        else:
+            return False
+
 
 if __name__ == "__main__":
     s = Solution()
