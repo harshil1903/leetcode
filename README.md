@@ -2,7 +2,7 @@
 
 Practicing algorithm questions listed on LeetCode
 
-Solved so far : 64	
+Solved so far : 65	
 
 
 
@@ -42,13 +42,14 @@ Solved so far : 64
 
 ​	
 
-### **Linked List** (3)
+### **Linked List** (4)
 
-|  #   | Title                                                        | Difficulty | Note |
-| :--: | :----------------------------------------------------------- | :--------: | :--: |
-| 0002 | [Add Two Numbers](https://github.com/harshil1903/leetcode/blob/main/Linked%20List/0002_add_two_numbers.py) |   Medium   |      |
-| 0025 | [Reverse Nodes in k-Group](https://github.com/harshil1903/leetcode/blob/main/Linked%20List/0025_reverse_nodes_in_k_group.py) |    Hard    |      |
-| 1290 | [Convert Binary Number in a Linked List to Integer](https://github.com/harshil1903/leetcode/blob/main/Linked%20List/1290_convert_binary_number_in_a_linked_list_to_integer.py) |    Easy    |      |
+|  #   | Title                                                        | Difficulty |              Note              |
+| :--: | :----------------------------------------------------------- | :--------: | :----------------------------: |
+| 0002 | [Add Two Numbers](https://github.com/harshil1903/leetcode/blob/main/Linked%20List/0002_add_two_numbers.py) |   Medium   |                                |
+| 0023 | [Merge k Sorted Lists](https://github.com/harshil1903/leetcode/blob/main/Linked%20List/0023_merge_k_sorted_list.py) |    Hard    | Divide and Conquer, Merge Sort |
+| 0025 | [Reverse Nodes in k-Group](https://github.com/harshil1903/leetcode/blob/main/Linked%20List/0025_reverse_nodes_in_k_group.py) |    Hard    |                                |
+| 1290 | [Convert Binary Number in a Linked List to Integer](https://github.com/harshil1903/leetcode/blob/main/Linked%20List/1290_convert_binary_number_in_a_linked_list_to_integer.py) |    Easy    |                                |
 
 
 
