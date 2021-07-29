@@ -2,7 +2,7 @@
 
 Practicing algorithm questions listed on LeetCode
 
-Solved so far : 61	
+Solved so far : 62	
 
 
 
@@ -92,10 +92,11 @@ Solved so far : 61
 
 
 
-### **Tree** (4)
+### **Tree** (5)
 
 |  #   | Title                                                        | Difficulty |               Note                |
 | :--: | :----------------------------------------------------------- | :--------: | :-------------------------------: |
+| 0098 | [Validate Binary Search Tree](https://github.com/harshil1903/leetcode/blob/main/Tree/0098_validate_binary_search_tree.py) |   Medium   |       DFS, BFS, Binary Tree       |
 | 0104 | [Maximum Depth of Binary Tree](https://github.com/harshil1903/leetcode/blob/main/Tree/0104_maximum_depth_of_binary_tree.py) |    Easy    |       DFS, BFS, Binary Tree       |
 | 0572 | [Subtree of Another Tree](https://github.com/harshil1903/leetcode/blob/main/Tree/0572_subtree_of_another_tree.py) |    Easy    | DFS, Binary Tree, String Matching |
 | 0938 | [Range Sum of BST](https://github.com/harshil1903/leetcode/blob/main/Tree/0938_range_sum_of_bst.py) |    Easy    |                                   |
