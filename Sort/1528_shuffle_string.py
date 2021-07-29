@@ -31,6 +31,7 @@ class Solution:
             res[i] = ch
         return ''.join(res)
 
+
 if __name__ == '__main__':
     s = Solution()
     print(s.restoreString("codeleet",[4,5,6,7,0,1,2,3]))
