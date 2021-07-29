@@ -2,7 +2,7 @@
 
 Practicing algorithm questions listed on LeetCode
 
-Solved so far : 60	
+Solved so far : 61	
 
 
 
@@ -66,11 +66,12 @@ Solved so far : 60
 
 
 
-### **String** (9)
+### **String** (10)
 
 |  #   | Title                                                        | Difficulty |             Note              |
 | :--: | :----------------------------------------------------------- | :--------: | :---------------------------: |
 | 0008 | [String to Integer (atoi)](https://github.com/harshil1903/leetcode/blob/main/String/0008_string_to_integer.py) |   Medium   |             Math              |
+| 0020 | [Valid Parenthesis](https://github.com/harshil1903/leetcode/blob/main/String/0020_valid_parenthesis.py) |    Easy    |             Stack             |
 | 0065 | [Valid Number](https://github.com/harshil1903/leetcode/blob/main/String/0065_valid_number.py) |    Hard    |             Math              |
 | 0451 | [Sort Characters By Frequency](https://github.com/harshil1903/leetcode/blob/main/String/0451_sort_characters_by_frequency.py) |   Medium   | Hash Table, Sorting, Counting |
 | 0859 | [Buddy Strings](https://github.com/harshil1903/leetcode/blob/main/String/0859_buddy_strings.py) |    Easy    |                               |
