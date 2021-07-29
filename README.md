@@ -2,7 +2,7 @@
 
 Practicing algorithm questions listed on LeetCode
 
-Solved so far : 62	
+Solved so far : 63	
 
 
 
@@ -51,13 +51,14 @@ Solved so far : 62
 
 
 
-### **Math** (8)
+### **Math** (9)
 
 |  #   | Title                                                        | Difficulty |       Note       |
 | :--: | :----------------------------------------------------------- | :--------: | :--------------: |
 | 0007 | [Reverse Integer](https://github.com/harshil1903/leetcode/blob/main/Math/0007_reverse_integer.py) |    Easy    |                  |
 | 0009 | [Palindrome Number](https://github.com/harshil1903/leetcode/blob/main/Math/0009_palindrome_number.py) |    Easy    |                  |
 | 0029 | [Divide Two Numbers](https://github.com/harshil1903/leetcode/blob/main/Math/0029_divide_two_integers.py) |   Medium   | Bit Manipulation |
+| 0050 | [Pow(x, n)](https://github.com/harshil1903/leetcode/blob/main/Math/0050_pow(x%2Cn).py) |   Medium   |    Recursion     |
 | 0149 | [Max Points on a Line](https://github.com/harshil1903/leetcode/blob/main/Math/0149_max_points_on_a_line.py) |    Hard    |    Hash Table    |
 | 0168 | [Excel Sheet Column Title](https://github.com/harshil1903/leetcode/blob/main/Math/0168_excel_sheet_column_title.py) |    Easy    |                  |
 | 0171 | [Excel Sheet Column Number](https://github.com/harshil1903/leetcode/blob/main/Math/0171_excel_sheet_column_number.py) |    Easy    |                  |
