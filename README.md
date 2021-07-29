@@ -2,13 +2,13 @@
 
 Practicing algorithm questions listed on LeetCode
 
-Solved so far : 65	
+Solved so far : 66	
 
 
 
 
 
-### **Array**  (27)
+### **Array**  (28)
 
 |  #   | Title                                                        | Difficulty |             Note              |
 | :--: | :----------------------------------------------------------- | :--------: | :---------------------------: |
@@ -24,6 +24,7 @@ Solved so far : 65
 | 0031 | [Next Permutation](https://github.com/harshil1903/leetcode/blob/main/Array/0031_next_permutation.py) |   Medium   |                               |
 | 0169 | [Majority Element](https://github.com/harshil1903/leetcode/blob/main/Array/0169_majority_element.py) |    Easy    | Hash Table, Sorting, Counting |
 | 0414 | [Third Maximum Number](https://github.com/harshil1903/leetcode/blob/main/Array/0414_third_maximum_number.py) |    Easy    |                               |
+| 0496 | [Next Greater Element I](https://github.com/harshil1903/leetcode/blob/main/Array/0496_next_greater_element_1.py) |    Easy    |       Hash Table, Stack       |
 | 0605 | [Can Place Flowers](https://github.com/harshil1903/leetcode/blob/main/Array/0605_can_place_flowers.py) |    East    |                               |
 | 1313 | [Decompress Run-Length Encoded List](https://github.com/harshil1903/leetcode/blob/main/Array/1313_decompress_length_encoded_list.py) |    Easy    |                               |
 | 1365 | [How Many Numbers Are Smaller Than the Current Number](https://github.com/harshil1903/leetcode/blob/main/Array/1365_nums_smaller_than_current_num.py) |    Easy    |          Hash Table           |
