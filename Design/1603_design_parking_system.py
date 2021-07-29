@@ -32,6 +32,7 @@ class ParkingSystem:
 # obj = ParkingSystem(big, medium, small)
 # param_1 = obj.addCar(carType)
 
+
 if __name__ == '__main__':
     s = ParkingSystem(1,1,0)
     print(s.addCar(1));
