@@ -2,42 +2,43 @@
 
 Practicing algorithm questions listed on LeetCode
 
-Solved so far : 63	
+Solved so far : 64	
 
 
 
 
 
-### **Array**  (26)
+### **Array**  (27)
 
-|  #   | Title                                                        | Difficulty |           Note           |
-| :--: | :----------------------------------------------------------- | :--------: | :----------------------: |
-| 0001 | [Two Sum](https://github.com/harshil1903/leetcode/blob/main/Array/0001_two_sum.py) |    Easy    |                          |
-| 0003 | [Longest Substring Without Repeating Characters](https://github.com/harshil1903/leetcode/blob/main/Array/0003_longest_substring_without_repeating_characters.py) |   Medium   |                          |
-| 0004 | [Median of Two Sorted Arrays](https://github.com/harshil1903/leetcode/blob/main/Array/0004_median_of_two_sorted_array.py) |    Hard    |                          |
-| 0011 | [Container With Most Water](https://github.com/harshil1903/leetcode/blob/main/Array/0011_container_with_most_water.py) |   Medium   |       Two Pointers       |
-| 0015 | [3Sum](https://github.com/harshil1903/leetcode/blob/main/Array/0015_three_sum.py) |   Medium   |       Two Pointers       |
-| 0016 | [3Sum Closest](https://github.com/harshil1903/leetcode/blob/main/Array/0016_three_sum_closest.py) |   Medium   |       Two Pointers       |
-| 0018 | [4Sum](https://github.com/harshil1903/leetcode/blob/main/Array/0018_four_sum.py) |   Medium   | Two Pointers, Hash Table |
-| 0026 | [Remove Duplicates from Sorted Array](https://github.com/harshil1903/leetcode/blob/main/Array/0026_remove_duplicate_from_sorted_array.py) |    Easy    |       Two Pointers       |
-| 0027 | [Remove Element](https://github.com/harshil1903/leetcode/blob/main/Array/0027_remove_element.py) |    Easy    |       Two Pointers       |
-| 0031 | [Next Permutation](https://github.com/harshil1903/leetcode/blob/main/Array/0031_next_permutation.py) |   Medium   |                          |
-| 0414 | [Third Maximum Number](https://github.com/harshil1903/leetcode/blob/main/Array/0414_third_maximum_number.py) |    Easy    |                          |
-| 0605 | [Can Place Flowers](https://github.com/harshil1903/leetcode/blob/main/Array/0605_can_place_flowers.py) |    East    |                          |
-| 1313 | [Decompress Run-Length Encoded List](https://github.com/harshil1903/leetcode/blob/main/Array/1313_decompress_length_encoded_list.py) |    Easy    |                          |
-| 1365 | [How Many Numbers Are Smaller Than the Current Number](https://github.com/harshil1903/leetcode/blob/main/Array/1365_nums_smaller_than_current_num.py) |    Easy    |        Hash Table        |
-| 1389 | [Create Target Array in the Given Order](https://github.com/harshil1903/leetcode/blob/main/Array/1389_target_array_in_given_order.py) |    Easy    |                          |
-| 1431 | [Kids With the Greatest Number of Candies](https://github.com/harshil1903/leetcode/blob/main/Array/1431_kids_with_greatest_candies.py) |    Easy    |                          |
-| 1464 | [Maximum Product of Two Elements in an Array](https://github.com/harshil1903/leetcode/blob/main/Array/1464_max_product_of_two_elements_array.py) |    Easy    |                          |
-| 1465 | [Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts](https://github.com/harshil1903/leetcode/blob/main/Array/1465_max_area_of_piece_of_cake.py) |   Medium   |                          |
-| 1470 | [Shuffle the Array](https://github.com/harshil1903/leetcode/blob/main/Array/1470_shuffle_the_array.py) |    Easy    |                          |
-| 1476 | [Subrectangle Queries](https://github.com/harshil1903/leetcode/blob/main/Array/1476_subrectangle_queries.py) |   Medium   |                          |
-| 1480 | [Running Sum of 1d Array](https://github.com/harshil1903/leetcode/blob/main/Array/1480_running_sum_of_1d_array.py) |    Easy    |                          |
-| 1512 | [Number of Good Pairs](https://github.com/harshil1903/leetcode/blob/main/Array/1512_number_of_good_pair.py) |    Easy    |     Hash Table, Math     |
-| 1672 | [Richest Customer Wealth](https://github.com/harshil1903/leetcode/blob/main/Array/1672_richest_customer_wealth.py) |    Easy    |                          |
-| 1769 | [Minimum Number of Operations to Move All Balls to Each Box](https://github.com/harshil1903/leetcode/blob/main/Array/1769_min_operations_to_move_balls_in_each_box.py) |   Medium   |                          |
-| 1773 | [Count Items Matching a Rule](https://github.com/harshil1903/leetcode/blob/main/Array/1773_count_items_matching_a_rule.py) |    Easy    |          String          |
-| 1920 | [Build Array from Permutation](https://github.com/harshil1903/leetcode/blob/main/Array/1920_build_array_from_permutation.py) |    Easy    |                          |
+|  #   | Title                                                        | Difficulty |             Note              |
+| :--: | :----------------------------------------------------------- | :--------: | :---------------------------: |
+| 0001 | [Two Sum](https://github.com/harshil1903/leetcode/blob/main/Array/0001_two_sum.py) |    Easy    |                               |
+| 0003 | [Longest Substring Without Repeating Characters](https://github.com/harshil1903/leetcode/blob/main/Array/0003_longest_substring_without_repeating_characters.py) |   Medium   |                               |
+| 0004 | [Median of Two Sorted Arrays](https://github.com/harshil1903/leetcode/blob/main/Array/0004_median_of_two_sorted_array.py) |    Hard    |                               |
+| 0011 | [Container With Most Water](https://github.com/harshil1903/leetcode/blob/main/Array/0011_container_with_most_water.py) |   Medium   |         Two Pointers          |
+| 0015 | [3Sum](https://github.com/harshil1903/leetcode/blob/main/Array/0015_three_sum.py) |   Medium   |         Two Pointers          |
+| 0016 | [3Sum Closest](https://github.com/harshil1903/leetcode/blob/main/Array/0016_three_sum_closest.py) |   Medium   |         Two Pointers          |
+| 0018 | [4Sum](https://github.com/harshil1903/leetcode/blob/main/Array/0018_four_sum.py) |   Medium   |   Two Pointers, Hash Table    |
+| 0026 | [Remove Duplicates from Sorted Array](https://github.com/harshil1903/leetcode/blob/main/Array/0026_remove_duplicate_from_sorted_array.py) |    Easy    |         Two Pointers          |
+| 0027 | [Remove Element](https://github.com/harshil1903/leetcode/blob/main/Array/0027_remove_element.py) |    Easy    |         Two Pointers          |
+| 0031 | [Next Permutation](https://github.com/harshil1903/leetcode/blob/main/Array/0031_next_permutation.py) |   Medium   |                               |
+| 0169 | [Majority Element](https://github.com/harshil1903/leetcode/blob/main/Array/0169_majority_element.py) |    Easy    | Hash Table, Sorting, Counting |
+| 0414 | [Third Maximum Number](https://github.com/harshil1903/leetcode/blob/main/Array/0414_third_maximum_number.py) |    Easy    |                               |
+| 0605 | [Can Place Flowers](https://github.com/harshil1903/leetcode/blob/main/Array/0605_can_place_flowers.py) |    East    |                               |
+| 1313 | [Decompress Run-Length Encoded List](https://github.com/harshil1903/leetcode/blob/main/Array/1313_decompress_length_encoded_list.py) |    Easy    |                               |
+| 1365 | [How Many Numbers Are Smaller Than the Current Number](https://github.com/harshil1903/leetcode/blob/main/Array/1365_nums_smaller_than_current_num.py) |    Easy    |          Hash Table           |
+| 1389 | [Create Target Array in the Given Order](https://github.com/harshil1903/leetcode/blob/main/Array/1389_target_array_in_given_order.py) |    Easy    |                               |
+| 1431 | [Kids With the Greatest Number of Candies](https://github.com/harshil1903/leetcode/blob/main/Array/1431_kids_with_greatest_candies.py) |    Easy    |                               |
+| 1464 | [Maximum Product of Two Elements in an Array](https://github.com/harshil1903/leetcode/blob/main/Array/1464_max_product_of_two_elements_array.py) |    Easy    |                               |
+| 1465 | [Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts](https://github.com/harshil1903/leetcode/blob/main/Array/1465_max_area_of_piece_of_cake.py) |   Medium   |                               |
+| 1470 | [Shuffle the Array](https://github.com/harshil1903/leetcode/blob/main/Array/1470_shuffle_the_array.py) |    Easy    |                               |
+| 1476 | [Subrectangle Queries](https://github.com/harshil1903/leetcode/blob/main/Array/1476_subrectangle_queries.py) |   Medium   |                               |
+| 1480 | [Running Sum of 1d Array](https://github.com/harshil1903/leetcode/blob/main/Array/1480_running_sum_of_1d_array.py) |    Easy    |                               |
+| 1512 | [Number of Good Pairs](https://github.com/harshil1903/leetcode/blob/main/Array/1512_number_of_good_pair.py) |    Easy    |       Hash Table, Math        |
+| 1672 | [Richest Customer Wealth](https://github.com/harshil1903/leetcode/blob/main/Array/1672_richest_customer_wealth.py) |    Easy    |                               |
+| 1769 | [Minimum Number of Operations to Move All Balls to Each Box](https://github.com/harshil1903/leetcode/blob/main/Array/1769_min_operations_to_move_balls_in_each_box.py) |   Medium   |                               |
+| 1773 | [Count Items Matching a Rule](https://github.com/harshil1903/leetcode/blob/main/Array/1773_count_items_matching_a_rule.py) |    Easy    |            String             |
+| 1920 | [Build Array from Permutation](https://github.com/harshil1903/leetcode/blob/main/Array/1920_build_array_from_permutation.py) |    Easy    |                               |
 
 ​	
 
