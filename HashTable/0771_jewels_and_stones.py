@@ -18,6 +18,7 @@ class Solution:
                 count+=1
         return count
 
+
 if __name__ == '__main__':
     s = Solution();
     print(s.numJewelsInStones("aA", "aAAbbb"))
