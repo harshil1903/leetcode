@@ -71,10 +71,11 @@ Solved so far : 67
 
 
 
-### **String** (10)
+### **String** (11)
 
 |  #   | Title                                                        | Difficulty |             Note              |
 | :--: | :----------------------------------------------------------- | :--------: | :---------------------------: |
+| 0005 | [Longest Palindromic Substring](https://github.com/harshil1903/leetcode/blob/main/String/0005_longest_palindrome_substring.py) |   Medium   |      Dynamic Programming      |
 | 0008 | [String to Integer (atoi)](https://github.com/harshil1903/leetcode/blob/main/String/0008_string_to_integer.py) |   Medium   |             Math              |
 | 0020 | [Valid Parenthesis](https://github.com/harshil1903/leetcode/blob/main/String/0020_valid_parenthesis.py) |    Easy    |             Stack             |
 | 0065 | [Valid Number](https://github.com/harshil1903/leetcode/blob/main/String/0065_valid_number.py) |    Hard    |             Math              |
