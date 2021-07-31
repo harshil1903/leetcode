@@ -2,13 +2,13 @@
 
 Practicing algorithm questions listed on LeetCode
 
-Solved so far : 67	
+Solved so far : 69	
 
 
 
 
 
-### **Array**  (29)
+### **Array**  (30)
 
 |  #   | Title                                                        | Difficulty |             Note              |
 | :--: | :----------------------------------------------------------- | :--------: | :---------------------------: |
@@ -23,6 +23,7 @@ Solved so far : 67
 | 0027 | [Remove Element](https://github.com/harshil1903/leetcode/blob/main/Array/0027_remove_element.py) |    Easy    |         Two Pointers          |
 | 0031 | [Next Permutation](https://github.com/harshil1903/leetcode/blob/main/Array/0031_next_permutation.py) |   Medium   |                               |
 | 0169 | [Majority Element](https://github.com/harshil1903/leetcode/blob/main/Array/0169_majority_element.py) |    Easy    | Hash Table, Sorting, Counting |
+| 0221 | [Maximal Square](https://github.com/harshil1903/leetcode/blob/main/Array/0221_maximal_square.py) |   Medium   |  Dynamic Programming, Matrix  |
 | 0238 | [Product of Array Except Self](https://github.com/harshil1903/leetcode/blob/main/Array/0238_product_of_array_except_itself.py) |   Medium   |          Prefix Sum           |
 | 0414 | [Third Maximum Number](https://github.com/harshil1903/leetcode/blob/main/Array/0414_third_maximum_number.py) |    Easy    |                               |
 | 0496 | [Next Greater Element I](https://github.com/harshil1903/leetcode/blob/main/Array/0496_next_greater_element_1.py) |    Easy    |       Hash Table, Stack       |
