@@ -2,7 +2,7 @@
 
 Practicing algorithm questions listed on LeetCode
 
-Solved so far : 71	
+Solved so far : 72	
 
 
 
@@ -92,10 +92,11 @@ Solved so far : 71
 
 ### **Hash Table** (2)
 
-|  #   | Title                                                        | Difficulty | Note |
-| :--: | :----------------------------------------------------------- | :--------: | :--: |
-| 0771 | [Jewels and Stones](https://github.com/harshil1903/leetcode/blob/main/HashTable/0771_jewels_and_stones.py) |    Easy    |      |
-| 1078 | [Occurrences After Bigram](https://github.com/harshil1903/leetcode/blob/main/HashTable/1078_occurences_after_bigram.py) |    Easy    |      |
+|  #   | Title                                                        | Difficulty |           Note            |
+| :--: | :----------------------------------------------------------- | :--------: | :-----------------------: |
+| 0692 | [Top K Frequent Words](https://github.com/harshil1903/leetcode/blob/main/HashTable/0692_top_k_frequent_words.py) |   Medium   | String, Sorting, Counting |
+| 0771 | [Jewels and Stones](https://github.com/harshil1903/leetcode/blob/main/HashTable/0771_jewels_and_stones.py) |    Easy    |                           |
+| 1078 | [Occurrences After Bigram](https://github.com/harshil1903/leetcode/blob/main/HashTable/1078_occurences_after_bigram.py) |    Easy    |                           |
 
 
 
