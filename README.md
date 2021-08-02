@@ -2,7 +2,7 @@
 
 Practicing algorithm questions listed on LeetCode
 
-Solved so far : 69	
+Solved so far : 71	
 
 
 
@@ -99,15 +99,17 @@ Solved so far : 69
 
 
 
-### **Tree** (5)
+### **Tree** (7)
 
-|  #   | Title                                                        | Difficulty |               Note                |
-| :--: | :----------------------------------------------------------- | :--------: | :-------------------------------: |
-| 0098 | [Validate Binary Search Tree](https://github.com/harshil1903/leetcode/blob/main/Tree/0098_validate_binary_search_tree.py) |   Medium   |       DFS, BFS, Binary Tree       |
-| 0104 | [Maximum Depth of Binary Tree](https://github.com/harshil1903/leetcode/blob/main/Tree/0104_maximum_depth_of_binary_tree.py) |    Easy    |       DFS, BFS, Binary Tree       |
-| 0572 | [Subtree of Another Tree](https://github.com/harshil1903/leetcode/blob/main/Tree/0572_subtree_of_another_tree.py) |    Easy    | DFS, Binary Tree, String Matching |
-| 0938 | [Range Sum of BST](https://github.com/harshil1903/leetcode/blob/main/Tree/0938_range_sum_of_bst.py) |    Easy    |                                   |
-| 1302 | [Deepest Leaves Sum](https://github.com/harshil1903/leetcode/blob/main/Tree/1302_deepest_leaves_sum.py) |   Medium   |                                   |
+|  #   | Title                                                        | Difficulty |         Note         |
+| :--: | :----------------------------------------------------------- | :--------: | :------------------: |
+| 0098 | [Validate Binary Search Tree](https://github.com/harshil1903/leetcode/blob/main/Tree/0098_validate_binary_search_tree.py) |   Medium   |       DFS, BFS       |
+| 0102 | [Binary Tree Level Order Traversal](https://github.com/harshil1903/leetcode/blob/main/Tree/0102_binary_tree_level_order_traversal.py) |   Medium   |         BFS          |
+| 0104 | [Maximum Depth of Binary Tree](https://github.com/harshil1903/leetcode/blob/main/Tree/0104_maximum_depth_of_binary_tree.py) |    Easy    |       DFS, BFS       |
+| 0107 | [Binary Tree Level Order Traversal 2](https://github.com/harshil1903/leetcode/blob/main/Tree/0107_binary_tree_level_order_traversal_2.py) |   Medium   |         BFS          |
+| 0572 | [Subtree of Another Tree](https://github.com/harshil1903/leetcode/blob/main/Tree/0572_subtree_of_another_tree.py) |    Easy    | DFS, String Matching |
+| 0938 | [Range Sum of BST](https://github.com/harshil1903/leetcode/blob/main/Tree/0938_range_sum_of_bst.py) |    Easy    |                      |
+| 1302 | [Deepest Leaves Sum](https://github.com/harshil1903/leetcode/blob/main/Tree/1302_deepest_leaves_sum.py) |   Medium   |                      |
 
 
 
