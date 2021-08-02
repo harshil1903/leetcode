@@ -40,6 +40,25 @@ class Solution:
         return nums
 
 
+    # Other way
+    def __init1__(self, nums: List[int]):
+        self.nums = nums
+        self.og = nums.copy()
+
+    def reset1(self) -> List[int]:
+        """
+        Resets the array to its original configuration and return it.
+        """
+        return self.og
+
+    def shuffle1(self) -> List[int]:
+        """
+        Returns a random shuffling of the array.
+        """
+        random.shuffle(self.nums)
+        return self.nums
+
+
 # Your Solution object will be instantiated and called as such:
 # obj = Solution(nums)
 # param_1 = obj.reset()
