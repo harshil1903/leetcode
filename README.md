@@ -2,7 +2,7 @@
 
 Practicing algorithm questions listed on LeetCode
 
-Solved so far : 80
+Solved so far : 81
 
 
 
@@ -49,11 +49,12 @@ Solved so far : 80
 
 ​	
 
-### **Linked List** (5)
+### **Linked List** (6)
 
 |  #   | Title                                                        | Difficulty |              Note              |
 | :--: | :----------------------------------------------------------- | :--------: | :----------------------------: |
 | 0002 | [Add Two Numbers](https://github.com/harshil1903/leetcode/blob/main/Linked%20List/0002_add_two_numbers.py) |   Medium   |                                |
+| 0019 | [Remove Nth Node From End of List](https://github.com/harshil1903/leetcode/blob/main/Linked%20List/0019_remove_nth_node_from_end_of_list.py) |   Medium   |                                |
 | 0021 | [Merge Two Sorted Lists](https://github.com/harshil1903/leetcode/blob/main/Linked%20List/0021_merge_two_sorted_lists.py) |    Easy    |           Recursion            |
 | 0023 | [Merge k Sorted Lists](https://github.com/harshil1903/leetcode/blob/main/Linked%20List/0023_merge_k_sorted_list.py) |    Hard    | Divide and Conquer, Merge Sort |
 | 0025 | [Reverse Nodes in k-Group](https://github.com/harshil1903/leetcode/blob/main/Linked%20List/0025_reverse_nodes_in_k_group.py) |    Hard    |                                |
