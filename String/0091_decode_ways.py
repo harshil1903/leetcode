@@ -37,3 +37,8 @@ class Solution:
                 cur += prev_prev
             prev, prev_prev = cur, prev
         return prev
+
+
+if __name__ == "__main__":
+    s = Solution()
+    print(s.numDecodings("5646841223"));
