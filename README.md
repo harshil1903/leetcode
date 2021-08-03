@@ -2,7 +2,7 @@
 
 Practicing algorithm questions listed on LeetCode
 
-Solved so far : 79
+Solved so far : 80
 
 
 
@@ -77,23 +77,24 @@ Solved so far : 79
 
 
 
-### **String** (13)
+### **String** (14)
 
-|  #   | Title                                                        | Difficulty |               Note               |
-| :--: | :----------------------------------------------------------- | :--------: | :------------------------------: |
-| 0005 | [Longest Palindromic Substring](https://github.com/harshil1903/leetcode/blob/main/String/0005_longest_palindrome_substring.py) |   Medium   |       Dynamic Programming        |
-| 0008 | [String to Integer (atoi)](https://github.com/harshil1903/leetcode/blob/main/String/0008_string_to_integer.py) |   Medium   |               Math               |
-| 0020 | [Valid Parenthesis](https://github.com/harshil1903/leetcode/blob/main/String/0020_valid_parenthesis.py) |    Easy    |              Stack               |
-| 0065 | [Valid Number](https://github.com/harshil1903/leetcode/blob/main/String/0065_valid_number.py) |    Hard    |               Math               |
-| 0091 | [Decode Ways](https://github.com/harshil1903/leetcode/blob/main/String/0091_decode_ways.py) |   Medium   |       Dynamic Programming        |
-| 0451 | [Sort Characters By Frequency](https://github.com/harshil1903/leetcode/blob/main/String/0451_sort_characters_by_frequency.py) |   Medium   |  Hash Table, Sorting, Counting   |
-| 0763 | [Partition Labels](https://github.com/harshil1903/leetcode/blob/main/String/0763_partition_labels.py) |   Medium   | Hash Table, Two Pointers, Greedy |
-| 0859 | [Buddy Strings](https://github.com/harshil1903/leetcode/blob/main/String/0859_buddy_strings.py) |    Easy    |                                  |
-| 1108 | [Defanging an IP Address](https://github.com/harshil1903/leetcode/blob/main/String/1108_defanging_an_ip_address.py) |    Easy    |                                  |
-| 1221 | [Split a String in Balanced Strings](https://github.com/harshil1903/leetcode/blob/main/String/1221_split_a_string_into_balanced_strings.py) |    Easy    |              Greedy              |
-| 1678 | [Goal Parser Interpretation](https://github.com/harshil1903/leetcode/blob/main/String/1678_goal_parser.py) |    Easy    |                                  |
-| 1689 | [Partitioning Into Minimum Number Of Deci-Binary Numbers](https://github.com/harshil1903/leetcode/blob/main/String/1689_min_of_deci_binary_number.py) |   Medium   |                                  |
-| 1880 | [Check if Word Equals Summation of Two Words](https://github.com/harshil1903/leetcode/blob/main/String/1880_check_word_equals_sum_of_two_words.py) |    Easy    |                                  |
+|  #   | Title                                                        | Difficulty |               Note                |
+| :--: | :----------------------------------------------------------- | :--------: | :-------------------------------: |
+| 0005 | [Longest Palindromic Substring](https://github.com/harshil1903/leetcode/blob/main/String/0005_longest_palindrome_substring.py) |   Medium   |        Dynamic Programming        |
+| 0008 | [String to Integer (atoi)](https://github.com/harshil1903/leetcode/blob/main/String/0008_string_to_integer.py) |   Medium   |               Math                |
+| 0020 | [Valid Parenthesis](https://github.com/harshil1903/leetcode/blob/main/String/0020_valid_parenthesis.py) |    Easy    |               Stack               |
+| 0022 | [Generate Parentheses](https://github.com/harshil1903/leetcode/blob/main/String/0022_generate_parenthesis.py) |   Medium   | Backtracking, Dynamic Programming |
+| 0065 | [Valid Number](https://github.com/harshil1903/leetcode/blob/main/String/0065_valid_number.py) |    Hard    |               Math                |
+| 0091 | [Decode Ways](https://github.com/harshil1903/leetcode/blob/main/String/0091_decode_ways.py) |   Medium   |        Dynamic Programming        |
+| 0451 | [Sort Characters By Frequency](https://github.com/harshil1903/leetcode/blob/main/String/0451_sort_characters_by_frequency.py) |   Medium   |   Hash Table, Sorting, Counting   |
+| 0763 | [Partition Labels](https://github.com/harshil1903/leetcode/blob/main/String/0763_partition_labels.py) |   Medium   | Hash Table, Two Pointers, Greedy  |
+| 0859 | [Buddy Strings](https://github.com/harshil1903/leetcode/blob/main/String/0859_buddy_strings.py) |    Easy    |                                   |
+| 1108 | [Defanging an IP Address](https://github.com/harshil1903/leetcode/blob/main/String/1108_defanging_an_ip_address.py) |    Easy    |                                   |
+| 1221 | [Split a String in Balanced Strings](https://github.com/harshil1903/leetcode/blob/main/String/1221_split_a_string_into_balanced_strings.py) |    Easy    |              Greedy               |
+| 1678 | [Goal Parser Interpretation](https://github.com/harshil1903/leetcode/blob/main/String/1678_goal_parser.py) |    Easy    |                                   |
+| 1689 | [Partitioning Into Minimum Number Of Deci-Binary Numbers](https://github.com/harshil1903/leetcode/blob/main/String/1689_min_of_deci_binary_number.py) |   Medium   |                                   |
+| 1880 | [Check if Word Equals Summation of Two Words](https://github.com/harshil1903/leetcode/blob/main/String/1880_check_word_equals_sum_of_two_words.py) |    Easy    |                                   |
 
 
 
