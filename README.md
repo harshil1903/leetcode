@@ -2,13 +2,13 @@
 
 Practicing algorithm questions listed on LeetCode
 
-Solved so far : 78
+Solved so far : 79
 
 
 
 
 
-### **Array**  (33)
+### **Array**  (34)
 
 |  #   | Title                                                        | Difficulty |                  Note                   |
 | :--: | :----------------------------------------------------------- | :--------: | :-------------------------------------: |
@@ -24,6 +24,7 @@ Solved so far : 78
 | 0031 | [Next Permutation](https://github.com/harshil1903/leetcode/blob/main/Array/0031_next_permutation.py) |   Medium   |                                         |
 | 0053 | [Maximum Subarray](https://github.com/harshil1903/leetcode/blob/main/Array/0053_maximum_subarray.py) |    Easy    | Divide and Conquer, Dynamic Programming |
 | 0121 | [Best Time to Buy and Sell Stock](https://github.com/harshil1903/leetcode/blob/main/Array/0121_best_time_to_buy_and_sell_stock.py) |    Easy    |           Dynamic Programming           |
+| 0152 | [Maximum Product Subarray](https://github.com/harshil1903/leetcode/blob/main/Array/0152_maximum_product_subarray.py) |   Medium   |           Dynamic Programming           |
 | 0169 | [Majority Element](https://github.com/harshil1903/leetcode/blob/main/Array/0169_majority_element.py) |    Easy    |      Hash Table, Sorting, Counting      |
 | 0221 | [Maximal Square](https://github.com/harshil1903/leetcode/blob/main/Array/0221_maximal_square.py) |   Medium   |       Dynamic Programming, Matrix       |
 | 0238 | [Product of Array Except Self](https://github.com/harshil1903/leetcode/blob/main/Array/0238_product_of_array_except_itself.py) |   Medium   |               Prefix Sum                |
