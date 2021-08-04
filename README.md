@@ -2,13 +2,13 @@
 
 Practicing algorithm questions listed on LeetCode
 
-Solved so far : 81
+Solved so far : 86
 
 
 
 
 
-### **Array**  (34)
+### **Array**  (38)
 
 |  #   | Title                                                        | Difficulty |                  Note                   |
 | :--: | :----------------------------------------------------------- | :--------: | :-------------------------------------: |
@@ -22,15 +22,19 @@ Solved so far : 81
 | 0026 | [Remove Duplicates from Sorted Array](https://github.com/harshil1903/leetcode/blob/main/Array/0026_remove_duplicate_from_sorted_array.py) |    Easy    |              Two Pointers               |
 | 0027 | [Remove Element](https://github.com/harshil1903/leetcode/blob/main/Array/0027_remove_element.py) |    Easy    |              Two Pointers               |
 | 0031 | [Next Permutation](https://github.com/harshil1903/leetcode/blob/main/Array/0031_next_permutation.py) |   Medium   |                                         |
+| 0045 | [Jump Game II](https://github.com/harshil1903/leetcode/blob/main/Array/0045_jump_game_2.py) |   Medium   |       Dynamic Programming, Greedy       |
 | 0053 | [Maximum Subarray](https://github.com/harshil1903/leetcode/blob/main/Array/0053_maximum_subarray.py) |    Easy    | Divide and Conquer, Dynamic Programming |
+| 0090 | [Subsets II](https://github.com/harshil1903/leetcode/blob/main/Array/0090_subsets_2.py) |   Medium   |     Backtracking, Bit Manipulation      |
 | 0121 | [Best Time to Buy and Sell Stock](https://github.com/harshil1903/leetcode/blob/main/Array/0121_best_time_to_buy_and_sell_stock.py) |    Easy    |           Dynamic Programming           |
 | 0152 | [Maximum Product Subarray](https://github.com/harshil1903/leetcode/blob/main/Array/0152_maximum_product_subarray.py) |   Medium   |           Dynamic Programming           |
 | 0169 | [Majority Element](https://github.com/harshil1903/leetcode/blob/main/Array/0169_majority_element.py) |    Easy    |      Hash Table, Sorting, Counting      |
 | 0221 | [Maximal Square](https://github.com/harshil1903/leetcode/blob/main/Array/0221_maximal_square.py) |   Medium   |       Dynamic Programming, Matrix       |
 | 0238 | [Product of Array Except Self](https://github.com/harshil1903/leetcode/blob/main/Array/0238_product_of_array_except_itself.py) |   Medium   |               Prefix Sum                |
+| 0300 | [Longest Increasing Subsequence](https://github.com/harshil1903/leetcode/blob/main/Array/0300_longest_increasing_subsequence.py) |   Medium   |    Binary Search,Dynamic Programming    |
 | 0384 | [Shuffle an Array](https://github.com/harshil1903/leetcode/blob/main/Array/0384_shuffle_an_array.py) |   Medium   |             Math Randomized             |
 | 0414 | [Third Maximum Number](https://github.com/harshil1903/leetcode/blob/main/Array/0414_third_maximum_number.py) |    Easy    |                                         |
 | 0496 | [Next Greater Element I](https://github.com/harshil1903/leetcode/blob/main/Array/0496_next_greater_element_1.py) |    Easy    |            Hash Table, Stack            |
+| 0540 | [Single Element in a Sorted Array](https://github.com/harshil1903/leetcode/blob/main/Array/0540_single_element_in_a_sorted_array.py) |   Medium   |              Binary Search              |
 | 0605 | [Can Place Flowers](https://github.com/harshil1903/leetcode/blob/main/Array/0605_can_place_flowers.py) |    East    |                                         |
 | 1313 | [Decompress Run-Length Encoded List](https://github.com/harshil1903/leetcode/blob/main/Array/1313_decompress_length_encoded_list.py) |    Easy    |                                         |
 | 1365 | [How Many Numbers Are Smaller Than the Current Number](https://github.com/harshil1903/leetcode/blob/main/Array/1365_nums_smaller_than_current_num.py) |    Easy    |               Hash Table                |
@@ -99,13 +103,14 @@ Solved so far : 81
 
 
 
-### **Hash Table** (3)
+### **Hash Table** (4)
 
-|  #   | Title                                                        | Difficulty |           Note            |
-| :--: | :----------------------------------------------------------- | :--------: | :-----------------------: |
-| 0692 | [Top K Frequent Words](https://github.com/harshil1903/leetcode/blob/main/HashTable/0692_top_k_frequent_words.py) |   Medium   | String, Sorting, Counting |
-| 0771 | [Jewels and Stones](https://github.com/harshil1903/leetcode/blob/main/HashTable/0771_jewels_and_stones.py) |    Easy    |                           |
-| 1078 | [Occurrences After Bigram](https://github.com/harshil1903/leetcode/blob/main/HashTable/1078_occurences_after_bigram.py) |    Easy    |                           |
+|  #   | Title                                                        | Difficulty |                   Note                   |
+| :--: | :----------------------------------------------------------- | :--------: | :--------------------------------------: |
+| 0187 | [Repeated DNA Sequences](https://github.com/harshil1903/leetcode/blob/main/HashTable/0187_repeated_dna_sequences.py) |   Medium   | String, Sliding Window, Bit Manipulation |
+| 0692 | [Top K Frequent Words](https://github.com/harshil1903/leetcode/blob/main/HashTable/0692_top_k_frequent_words.py) |   Medium   |        String, Sorting, Counting         |
+| 0771 | [Jewels and Stones](https://github.com/harshil1903/leetcode/blob/main/HashTable/0771_jewels_and_stones.py) |    Easy    |                                          |
+| 1078 | [Occurrences After Bigram](https://github.com/harshil1903/leetcode/blob/main/HashTable/1078_occurences_after_bigram.py) |    Easy    |                                          |
 
 
 
