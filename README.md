@@ -2,13 +2,13 @@
 
 Practicing algorithm questions listed on LeetCode
 
-Solved so far : 90
+Solved so far : 91
 
 
 
 
 
-### **Array**  (40)
+### **Array**  (41)
 
 |  #   | Title                                                        | Difficulty |                  Note                   |
 | :--: | :----------------------------------------------------------- | :--------: | :-------------------------------------: |
@@ -51,6 +51,7 @@ Solved so far : 90
 | 1672 | [Richest Customer Wealth](https://github.com/harshil1903/leetcode/blob/main/Array/1672_richest_customer_wealth.py) |    Easy    |                                         |
 | 1769 | [Minimum Number of Operations to Move All Balls to Each Box](https://github.com/harshil1903/leetcode/blob/main/Array/1769_min_operations_to_move_balls_in_each_box.py) |   Medium   |                                         |
 | 1773 | [Count Items Matching a Rule](https://github.com/harshil1903/leetcode/blob/main/Array/1773_count_items_matching_a_rule.py) |    Easy    |                 String                  |
+| 1854 | [Maximum Population Year](https://github.com/harshil1903/leetcode/blob/main/Array/1854_maximum_population_year.py) |    Easy    |                Counting                 |
 | 1920 | [Build Array from Permutation](https://github.com/harshil1903/leetcode/blob/main/Array/1920_build_array_from_permutation.py) |    Easy    |                                         |
 
 ​	
