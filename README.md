@@ -2,13 +2,13 @@
 
 Practicing algorithm questions listed on LeetCode
 
-Solved so far : 97
+Solved so far : 98
 
 
 
 
 
-### **Array**  (44)
+### **Array**  (45)
 
 |  #   | Title                                                        | Difficulty |                  Note                   |
 | :--: | :----------------------------------------------------------- | :--------: | :-------------------------------------: |
@@ -32,6 +32,7 @@ Solved so far : 97
 | 0155 | [Min Stack](https://github.com/harshil1903/leetcode/blob/main/Array/0155_min_stack.py) |    Easy    |              Stack, Design              |
 | 0167 | [Two Sum II - Input array is sorted](https://github.com/harshil1903/leetcode/blob/main/Array/0167_two_sum_2_input_array_is_sorted.py) |    Easy    |       Two Pointers, Binary Search       |
 | 0169 | [Majority Element](https://github.com/harshil1903/leetcode/blob/main/Array/0169_majority_element.py) |    Easy    |      Hash Table, Sorting, Counting      |
+| 0215 | [Kth Largest Element in an Array](https://github.com/harshil1903/leetcode/blob/main/Array/0215_kth_largest_element_in_the_array.py) |   Medium   |    Divide and Conquer, Sorting, Heap    |
 | 0221 | [Maximal Square](https://github.com/harshil1903/leetcode/blob/main/Array/0221_maximal_square.py) |   Medium   |       Dynamic Programming, Matrix       |
 | 0238 | [Product of Array Except Self](https://github.com/harshil1903/leetcode/blob/main/Array/0238_product_of_array_except_itself.py) |   Medium   |               Prefix Sum                |
 | 0300 | [Longest Increasing Subsequence](https://github.com/harshil1903/leetcode/blob/main/Array/0300_longest_increasing_subsequence.py) |   Medium   |    Binary Search,Dynamic Programming    |
