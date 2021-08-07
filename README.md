@@ -2,13 +2,13 @@
 
 Practicing algorithm questions listed on LeetCode
 
-Solved so far : 94
+Solved so far : 96
 
 
 
 
 
-### **Array**  (41)
+### **Array**  (43)
 
 |  #   | Title                                                        | Difficulty |                  Note                   |
 | :--: | :----------------------------------------------------------- | :--------: | :-------------------------------------: |
@@ -29,10 +29,12 @@ Solved so far : 94
 | 0121 | [Best Time to Buy and Sell Stock](https://github.com/harshil1903/leetcode/blob/main/Array/0121_best_time_to_buy_and_sell_stock.py) |    Easy    |           Dynamic Programming           |
 | 0152 | [Maximum Product Subarray](https://github.com/harshil1903/leetcode/blob/main/Array/0152_maximum_product_subarray.py) |   Medium   |           Dynamic Programming           |
 | 0155 | [Min Stack](https://github.com/harshil1903/leetcode/blob/main/Array/0155_min_stack.py) |    Easy    |              Stack, Design              |
+| 0167 | [Two Sum II - Input array is sorted](https://github.com/harshil1903/leetcode/blob/main/Array/0167_two_sum_2_input_array_is_sorted.py) |    Easy    |       Two Pointers, Binary Search       |
 | 0169 | [Majority Element](https://github.com/harshil1903/leetcode/blob/main/Array/0169_majority_element.py) |    Easy    |      Hash Table, Sorting, Counting      |
 | 0221 | [Maximal Square](https://github.com/harshil1903/leetcode/blob/main/Array/0221_maximal_square.py) |   Medium   |       Dynamic Programming, Matrix       |
 | 0238 | [Product of Array Except Self](https://github.com/harshil1903/leetcode/blob/main/Array/0238_product_of_array_except_itself.py) |   Medium   |               Prefix Sum                |
 | 0300 | [Longest Increasing Subsequence](https://github.com/harshil1903/leetcode/blob/main/Array/0300_longest_increasing_subsequence.py) |   Medium   |    Binary Search,Dynamic Programming    |
+| 0347 | [Top K Frequent Elements](https://github.com/harshil1903/leetcode/blob/main/Array/0347_top_k_frequent_elements.py) |   Medium   |   Hash Table, Sorting, Counting, Heap   |
 | 0384 | [Shuffle an Array](https://github.com/harshil1903/leetcode/blob/main/Array/0384_shuffle_an_array.py) |   Medium   |             Math Randomized             |
 | 0414 | [Third Maximum Number](https://github.com/harshil1903/leetcode/blob/main/Array/0414_third_maximum_number.py) |    Easy    |                                         |
 | 0496 | [Next Greater Element I](https://github.com/harshil1903/leetcode/blob/main/Array/0496_next_greater_element_1.py) |    Easy    |            Hash Table, Stack            |
