@@ -2,7 +2,7 @@
 
 Practicing algorithm questions listed on LeetCode
 
-Solved so far : 92
+Solved so far : 93
 
 
 
@@ -86,12 +86,13 @@ Solved so far : 92
 
 
 
-### **String** (14)
+### **String** (15)
 
 |  #   | Title                                                        | Difficulty |               Note                |
 | :--: | :----------------------------------------------------------- | :--------: | :-------------------------------: |
 | 0005 | [Longest Palindromic Substring](https://github.com/harshil1903/leetcode/blob/main/String/0005_longest_palindrome_substring.py) |   Medium   |        Dynamic Programming        |
 | 0008 | [String to Integer (atoi)](https://github.com/harshil1903/leetcode/blob/main/String/0008_string_to_integer.py) |   Medium   |               Math                |
+| 0014 | [Longest Common Prefix](https://github.com/harshil1903/leetcode/blob/main/String/0014_longest_common_prefix.py) |    Easy    |                                   |
 | 0020 | [Valid Parenthesis](https://github.com/harshil1903/leetcode/blob/main/String/0020_valid_parenthesis.py) |    Easy    |               Stack               |
 | 0022 | [Generate Parentheses](https://github.com/harshil1903/leetcode/blob/main/String/0022_generate_parenthesis.py) |   Medium   | Backtracking, Dynamic Programming |
 | 0065 | [Valid Number](https://github.com/harshil1903/leetcode/blob/main/String/0065_valid_number.py) |    Hard    |               Math                |
