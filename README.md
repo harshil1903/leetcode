@@ -2,7 +2,7 @@
 
 Practicing algorithm questions listed on LeetCode
 
-Solved so far : 93
+Solved so far : 94
 
 
 
@@ -108,10 +108,11 @@ Solved so far : 93
 
 
 
-### **Hash Table** (6)
+### **Hash Table** (7)
 
 |  #   | Title                                                        | Difficulty |                   Note                   |
 | :--: | :----------------------------------------------------------- | :--------: | :--------------------------------------: |
+| 0012 | [Integer to Roman](https://github.com/harshil1903/leetcode/blob/main/HashTable/0012_integer_to_roman.py) |   Medium   |               String, Math               |
 | 0049 | [Group Anagrams](https://github.com/harshil1903/leetcode/blob/main/HashTable/0049_group_anagrams.py) |   Medium   |             String, Sorting              |
 | 0133 | [Clone Graph](https://github.com/harshil1903/leetcode/blob/main/HashTable/0133_clone_graph.py) |   Medium   |             Graph, DFS, BFS              |
 | 0187 | [Repeated DNA Sequences](https://github.com/harshil1903/leetcode/blob/main/HashTable/0187_repeated_dna_sequences.py) |   Medium   | String, Sliding Window, Bit Manipulation |
