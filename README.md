@@ -2,7 +2,7 @@
 
 Practicing algorithm questions listed on LeetCode
 
-Solved so far : 99
+Solved so far : 100
 
 
 
@@ -90,7 +90,7 @@ Solved so far : 99
 
 
 
-### **String** (15)
+### **String** (16)
 
 |  #   | Title                                                        | Difficulty |               Note                |
 | :--: | :----------------------------------------------------------- | :--------: | :-------------------------------: |
@@ -101,6 +101,7 @@ Solved so far : 99
 | 0022 | [Generate Parentheses](https://github.com/harshil1903/leetcode/blob/main/String/0022_generate_parenthesis.py) |   Medium   | Backtracking, Dynamic Programming |
 | 0065 | [Valid Number](https://github.com/harshil1903/leetcode/blob/main/String/0065_valid_number.py) |    Hard    |               Math                |
 | 0091 | [Decode Ways](https://github.com/harshil1903/leetcode/blob/main/String/0091_decode_ways.py) |   Medium   |        Dynamic Programming        |
+| 0125 | [Valid Palindrome](https://github.com/harshil1903/leetcode/blob/main/String/0125_valid_palindrome.py) |    Easy    |           Two Pointers            |
 | 0451 | [Sort Characters By Frequency](https://github.com/harshil1903/leetcode/blob/main/String/0451_sort_characters_by_frequency.py) |   Medium   |   Hash Table, Sorting, Counting   |
 | 0763 | [Partition Labels](https://github.com/harshil1903/leetcode/blob/main/String/0763_partition_labels.py) |   Medium   | Hash Table, Two Pointers, Greedy  |
 | 0859 | [Buddy Strings](https://github.com/harshil1903/leetcode/blob/main/String/0859_buddy_strings.py) |    Easy    |                                   |
