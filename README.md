@@ -2,13 +2,13 @@
 
 Practicing algorithm questions listed on LeetCode
 
-Solved so far : 96
+Solved so far : 97
 
 
 
 
 
-### **Array**  (43)
+### **Array**  (44)
 
 |  #   | Title                                                        | Difficulty |                  Note                   |
 | :--: | :----------------------------------------------------------- | :--------: | :-------------------------------------: |
@@ -22,6 +22,7 @@ Solved so far : 96
 | 0026 | [Remove Duplicates from Sorted Array](https://github.com/harshil1903/leetcode/blob/main/Array/0026_remove_duplicate_from_sorted_array.py) |    Easy    |              Two Pointers               |
 | 0027 | [Remove Element](https://github.com/harshil1903/leetcode/blob/main/Array/0027_remove_element.py) |    Easy    |              Two Pointers               |
 | 0031 | [Next Permutation](https://github.com/harshil1903/leetcode/blob/main/Array/0031_next_permutation.py) |   Medium   |                                         |
+| 0033 | [Search in Rotated Sorted Array](https://github.com/harshil1903/leetcode/blob/main/Array/0033_search_in_rotated_sorted_array.py) |   Medium   |              Binary Search              |
 | 0045 | [Jump Game II](https://github.com/harshil1903/leetcode/blob/main/Array/0045_jump_game_2.py) |   Medium   |       Dynamic Programming, Greedy       |
 | 0046 | [Permutations](https://github.com/harshil1903/leetcode/blob/main/Array/0046_permutations.py) |   Medium   |              Backtracking               |
 | 0053 | [Maximum Subarray](https://github.com/harshil1903/leetcode/blob/main/Array/0053_maximum_subarray.py) |    Easy    | Divide and Conquer, Dynamic Programming |
