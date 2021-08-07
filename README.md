@@ -2,7 +2,7 @@
 
 Practicing algorithm questions listed on LeetCode
 
-Solved so far : 98
+Solved so far : 99
 
 
 
@@ -158,10 +158,11 @@ Solved so far : 98
 
 
 
-### **Design** (2)
+### **Design** (3)
 
 |  #   | Title                                                        | Difficulty | Note |
 | :--: | :----------------------------------------------------------- | :--------: | :--: |
+| 0232 | [Implement Queue using Stacks](https://github.com/harshil1903/leetcode/blob/main/Design/0232_implement_queue_using_stacks.py) |    Easy    |      |
 | 1603 | [Design Parking System](https://github.com/harshil1903/leetcode/blob/main/Design/1603_design_parking_system.py) |    Easy    |      |
 | 1656 | [Design an Ordered Stream](https://github.com/harshil1903/leetcode/blob/main/Design/1656_design_an_ordered_stream.py) |    Easy    |      |
 
